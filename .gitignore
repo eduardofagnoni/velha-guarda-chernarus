@@ -11,6 +11,7 @@ __mods.txt
 ServerProfile/Users/
 ServerProfile/*.RPT
 ServerProfile/*.ADM
+iniciar_chernarus.bat
 
 addons/
 battleye/
