@@ -1,0 +1,233 @@
+// ------------------------------------------------------ Trader Markers -------------------------------------------------------
+
+// Velha Guarda 01:
+
+<TraderMarker> 			0 									//OK!!!
+<TraderMarkerPosition>	3769.19287109375,           308.39202880859377,          7536.26318359375 	// Coordinate X, 	Coordinate Y, 	Coordinate Z
+<TraderMarkerSafezone>	100									// Safezone Radius
+
+<TraderMarker> 			1
+<TraderMarkerPosition>	3761.7587890625,           308.3766784667969,            7524.60302734375       //OK!!!
+<TraderMarkerSafezone>	0
+
+<TraderMarker> 			2
+<TraderMarkerPosition>	3767.340576171875,              308.3768310546875,            7533.31591796875  //OK!!!
+<TraderMarkerSafezone>	0
+
+<TraderMarker> 			3
+<TraderMarkerPosition>	3765.322509765625,              308.3768310546875,             7530.24609375  //OK!!!
+<TraderMarkerSafezone>	0
+
+<TraderMarker> 			4
+<TraderMarkerPosition>	3763.67724609375,             308.3768310546875,            7527.62890625  //OK!!!
+<TraderMarkerSafezone>	0
+
+<TraderMarker> 			5
+<TraderMarkerPosition>	3775.945556640625,          303.18487548828127,         7589.63671875 
+<TraderMarkerSafezone>	0
+<VehicleSpawn>			3785.30712890625,           301.73681640625,           7610.48828125		// Vehicle Spawnpoint for Trader; 	Coordinate X, 	Coordinate Y, 	Coordinate Z (optional)
+<VehicleSpawnOri>		-143.99989318847657,		0,			-0			// Vehicle Spawnpoint Orientation; 	Yaw, 			Pitch, 			Roll	 	 (optional)
+
+// Velha Guarda 02:
+
+<TraderMarker> 			0
+<TraderMarkerPosition>	8886.31640625,            383.93634033203127,            9233.90625  //OK!!
+<TraderMarkerSafezone>	100
+
+<TraderMarker> 			1
+<TraderMarkerPosition>	8900.1396484375,            383.9209899902344,            9234.2900390625  //OK!!!
+<TraderMarkerSafezone>	0
+
+<TraderMarker> 			2
+<TraderMarkerPosition>	8889.794921875,            383.921142578125,          9234.025390625  //OK!!
+<TraderMarkerSafezone>	0
+
+<TraderMarker> 			3
+<TraderMarkerPosition>	8893.4677734375,           383.921142578125,           9234.0771484375 //OK!!
+<TraderMarkerSafezone>	0
+
+<TraderMarker> 			4
+<TraderMarkerPosition>	8896.5576171875,             383.921142578125,            9234.1826171875  //OK!!
+<TraderMarkerSafezone>	0
+
+<TraderMarker> 			5
+<TraderMarkerPosition>	8754.7998046875,            386.6000061035156,             9182.7197265625  //OK!!
+<TraderMarkerSafezone>	0
+<VehicleSpawn>			8774.2919921875,          385.8907165527344,         9187.98046875
+<VehicleSpawnOri>		0.0,		-0,			-0
+
+// CAÇADOR:OK!!!
+
+<TraderMarker> 			6
+<TraderMarkerPosition>	2764.43994140625,             25.920000076293947,            1228.3800048828126
+<TraderMarkerSafezone>	5
+
+// Velha Guarda Modas:OK!!
+
+<TraderMarker> 			7
+<TraderMarkerPosition>	13218.2998046875,              6.0,              9901.08984375
+<TraderMarkerSafezone>	5
+
+// TRAFICANTE:OK!!!
+
+<TraderMarker> 			8
+<TraderMarkerPosition>	5752.91015625,           118.9990005493164,            4343.490234375
+<TraderMarkerSafezone>	1
+
+// BLACK:OK!!!
+
+<TraderMarker> 			9
+<TraderMarkerPosition>	13858.2998046875,           32.64350128173828,            2881.52001953125
+<TraderMarkerSafezone>	5
+
+// HELIPORTO:OK!!
+
+<TraderMarker> 			10
+<TraderMarkerPosition>	5028.7900390625,             9.493494987487793,              2357.429931640625
+<TraderMarkerSafezone>	1
+<VehicleSpawn>			5055.000000,	9.700000,	2336.000000
+<VehicleSpawnOri>		-173.000000,		0,			0
+
+// ATT:OK!!
+
+<TraderMarker> 			11
+<TraderMarkerPosition>	6911.07275390625,           427.4809265136719,           11429.9091796875
+<TraderMarkerSafezone>	10
+
+// PESCADOR:OK!!
+
+<TraderMarker> 			12
+<TraderMarkerPosition>	9615.900390625,           181.6280059814453,            10437.7001953125
+<TraderMarkerSafezone>	5
+
+
+
+
+
+
+
+
+
+
+// ------------------------------------------------------ Objects to Spawn ------------------------------------------------------
+
+// PESCADOR:OK!!
+
+<Object> 			BVM_VendingMachine_fishing
+<ObjectPosition>	9615.900390625,           181.6280059814453,            10437.7001953125
+<ObjectOrientation>	99.4999008178711, 0,			0
+<ObjectAttachment>	NPC_DUMMY
+
+// RESORTATT:OK!!!
+
+<Object> 			BVM_VendingMachine_attachments
+<ObjectPosition>	6911.07275390625,           427.4809265136719,           11429.9091796875
+<ObjectOrientation>	89.90279388427735, 0,			0
+<ObjectAttachment>    NPC_DUMMY
+
+// HELIPORTO:OK!!
+<Object> 			 BVM_VendingMachine_helicopters
+<ObjectPosition>	5028.7900390625,             9.493494987487793,              2357.429931640625
+<ObjectOrientation>	139.0, 0,			0
+<ObjectAttachment>    NPC_DUMMY
+
+// CAÇADOR:OK!!!
+
+<Object> 			BVM_VendingMachine_hunting
+<ObjectPosition>	2764.43994140625,             25.920000076293947,            1228.3800048828126
+<ObjectOrientation>	-139.5, 0,			0
+<ObjectAttachment>    NPC_DUMMY
+
+// BLACK:OK!!!
+
+<Object> 			BVM_VendingMachine_blackmarket
+<ObjectPosition>	13858.2998046875,           32.64350128173828,            2881.52001953125
+<ObjectOrientation>	-29.49999237060547, 0,			0
+<ObjectAttachment>    NPC_DUMMY
+	
+	
+	
+// TRAFICANTE:OK!!!
+
+<Object> 			BVM_VendingMachine_drugs
+<ObjectPosition>	5752.91015625,           118.9990005493164,            4343.490234375
+<ObjectOrientation>	-105.4939956665039, 0,			0
+<ObjectAttachment>    NPC_DUMMY
+
+// Velha Guarda Modas:OK!!
+
+<Object> 			BVM_VendingMachine_clothing
+<ObjectPosition>	13218.2998046875,              6.0,              9901.08984375
+<ObjectOrientation>	35.83549880981445, 0,			0
+<ObjectAttachment>    NPC_DUMMY
+
+
+// Velha Guarda 01:
+
+<Object> 			BVM_VendingMachine_medical						// OK!!!
+<ObjectPosition>	3769.19287109375,           308.39202880859377,          7536.26318359375		// Coordinate X, 	Coordinate Y, 	Coordinate Z
+<ObjectOrientation>	-57.80936050415039, 0,			0			// Yaw, 			Pitch, 			Roll
+<ObjectAttachment>	NPC_DUMMY
+						// Add this if you are using an non Character Object for an Trader (like Vending Machines, etc.). It is needed to make the User Action for the Trading Menu work.
+
+<Object> 			BVM_VendingMachine_tools       //OK!!!
+<ObjectPosition>	3761.7587890625,           308.3766784667969,            7524.60302734375
+<ObjectOrientation>	-57.80922317504883, 0,			0
+<ObjectAttachment>	NPC_DUMMY
+
+<Object> 			BVM_VendingMachine_firearms
+<ObjectPosition>	3767.340576171875,              308.3768310546875,            7533.31591796875
+<ObjectOrientation>	-57.809085845947269, 0,			0
+<ObjectAttachment>	NPC_DUMMY
+
+<Object> 			BVM_VendingMachine_ammunition
+<ObjectPosition>	3765.322509765625,              308.3768310546875,             7530.24609375
+<ObjectOrientation>	-57.809085845947269, 0,			0
+<ObjectAttachment>	NPC_DUMMY
+
+<Object> 			BVM_VendingMachine_military_clothing
+<ObjectPosition>	3763.67724609375,             308.3768310546875,            7527.62890625
+<ObjectOrientation>	-57.809085845947269, 0,			0
+<ObjectAttachment>	NPC_DUMMY
+
+<Object> 				BVM_VendingMachine_vehicles
+<ObjectPosition>	3775.945556640625,          303.18487548828127,         7589.63671875
+<ObjectOrientation>	35.999996185302737, 0,			0
+<ObjectAttachment>	NPC_DUMMY
+
+// Velha Guarda 02:
+
+<Object> 			BVM_VendingMachine_medical  //OK!!
+<ObjectPosition>	8886.31640625,            383.93634033203127,            9233.90625
+<ObjectOrientation>	178.0848846435547,, 0,			0
+<ObjectAttachment>	NPC_DUMMY
+
+<Object> 			BVM_VendingMachine_tools  //OK!!
+<ObjectPosition>	8900.1396484375,            383.9209899902344,            9234.2900390625
+<ObjectOrientation>	178.0850067138672, 0,			0
+<ObjectAttachment>	NPC_DUMMY
+
+<Object> 			BVM_VendingMachine_firearms  //OK!!!
+<ObjectPosition>	8889.794921875,            383.921142578125,          9234.025390625
+<ObjectOrientation>	178.0851593017578,	0,			0
+<ObjectAttachment>	NPC_DUMMY
+
+<Object> 			BVM_VendingMachine_ammunition  //OK!!!
+<ObjectPosition>	8893.4677734375,             383.921142578125,            9234.0771484375
+<ObjectOrientation>	178.0851593017578,	0,			0
+<ObjectAttachment>	NPC_DUMMY
+
+<Object> 			BVM_VendingMachine_military_clothing  //OK!!
+<ObjectPosition>	8896.5576171875,             383.921142578125,              9234.1826171875
+<ObjectOrientation>	178.0851593017578,	0,			0
+<ObjectAttachment>	NPC_DUMMY
+
+<Object> 				BVM_VendingMachine_vehicles
+<ObjectPosition>	8754.7998046875,            386.6000061035156,             9182.7197265625
+<ObjectOrientation>	88.9998779296875,	0,			0
+<ObjectAttachment>	NPC_DUMMY
+
+
+
+//<OpenFile> FileName.txt								// Links to another File; Must be right above <FileEnd>!
+<FileEnd>												// This has to be on the End of this File and is very importand!

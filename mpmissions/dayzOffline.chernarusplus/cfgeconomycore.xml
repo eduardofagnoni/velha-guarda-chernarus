@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<economycore>
+	<classes>
+<!--
+These are rootclasses to be used by economy.
+Do not forget to add attribute act="character", if root class represents character (player, infected, animal)
+Do not forget to add attribute act="car", if root class represents moveable vehicles
+-->
+		<rootclass name="DefaultWeapon" /> <!-- weapons -->
+		<rootclass name="DefaultMagazine" /> <!-- magazines -->
+		<rootclass name="Inventory_Base" /> <!-- inventory items -->
+		<rootclass name="HouseNoDestruct" reportMemoryLOD="no" /> <!-- houses, wrecks -->
+		<rootclass name="SurvivorBase" act="character" reportMemoryLOD="no" /> <!-- player characters -->
+		<rootclass name="DZ_LightAI" act="character" reportMemoryLOD="no" /> <!-- infected, animals -->
+		<rootclass name="CarScript" act="car" reportMemoryLOD="no" /> <!-- cars (sedan, hatchback, transitBus, V3S, ...) -->
+	</classes>
+	<defaults>
+		<default name="dyn_radius" value="30" />
+		<default name="dyn_smin" value="0" />
+		<default name="dyn_smax" value="0" />
+		<default name="dyn_dmin" value="1" />
+		<default name="dyn_dmax" value="5" />
+		<default name="log_ce_loop" value="false"/>
+		<default name="log_ce_dynamicevent" value="false"/>
+		<default name="log_ce_vehicle" value="false"/>
+		<default name="log_ce_lootspawn" value="false"/>
+		<default name="log_ce_lootcleanup" value="false"/>
+		<default name="log_ce_lootrespawn" value="false"/>
+		<default name="log_ce_statistics" value="false"/>
+		<default name="log_ce_zombie" value="false"/>
+		<default name="log_storageinfo" value="false"/>
+		<default name="log_hivewarning" value="true"/>
+		<default name="log_missionfilewarning" value="true"/>
+		<default name="save_events_startup" value="true"/>
+		<default name="save_types_startup" value="true"/>
+	</defaults>
+
+	<!-- Aliens -->
+	<ce folder="_Z_Alien_ce">
+        <file name="Alien_types.xml" type="types"/>
+		<file name="Alien_events.xml" type="events"/>
+	</ce>
+	<!-- Base Itens -->
+	<ce folder="_BaseItens_ce">
+        <file name="rag_baseitems.xml" type="types"/>
+        <file name="cfgspawnabletypes.xml" type="spawnabletypes"/>
+		<file name="cfgrandompresets.xml" type="randompresets"/>
+	</ce>
+	<!-- BBP -->
+	<ce folder="_BBP_ce">
+        <file name="BBP_types.xml" type="types"/>
+	</ce>
+	<!-- BBP Item Pack -->
+	<ce folder="_BBPItemPack_ce">
+        <file name="types.xml" type="types"/>
+	</ce>
+	<!-- Bee Hive -->
+	<ce folder="_BeeHive_ce">
+        <file name="beehive_types.xml" type="types"/>
+	</ce>
+	<!-- BRTX -->
+	<ce folder="_BRTX_ce">
+        <file name="BrtxTypes.xml" type="types"/>
+	</ce>
+	<!-- Cannabis Plus -->
+	<ce folder="_CannabisPlus_ce">
+        <file name="CP_sample_cannabisplus_types.xml" type="types"/>
+	</ce>
+	<!-- CARS -->
+	<ce folder="_CARS_ce">
+        <file name="CARs_types.xml" type="types"/>
+	</ce>
+	<!-- Code Lock -->
+	<ce folder="_CodeLock_ce">
+        <file name="types.xml" type="types"/>
+	</ce>
+	<!-- Creatures Off The Night -->
+	<ce folder="_CreaturesOfTheNight_ce">
+        <file name="PsychoCreaturesOfThNightTypes.xml" type="types"/>
+		<file name="events.xml" type="events"/>
+	</ce>
+	<!-- Dogs -->
+	<ce folder="_DOGS_ce">
+        <file name="types.xml" type="types"/>
+	</ce>
+	<!-- Drugs Plus -->
+	<ce folder="_DrugsPlus_ce">
+        <file name="DP_sample_drugsplus_types.xml" type="types"/>
+		<file name="DP_sample_events.xml" type="events"/>
+	</ce>
+	<!-- DNA Key Cards -->
+	<ce folder="_DNAKeyCards_ce">
+        <file name="TypesDNAKeyCards.xml" type="types"/>		
+	</ce>
+	<!-- FOGear -->
+	<ce folder="_FOGear_ce">
+        <file name="FOG_Types.xml" type="types"/>
+        <file name="FOG_spawnabletypes.xml" type="spawnabletypes"/>
+	</ce>
+	<!-- Garagem -->
+	<ce folder="_garagem_ce">
+        <file name="types_garagem.xml" type="types"/>
+	</ce>
+	<!-- Gebs Fish -->
+	<ce folder="_Gebsfish_ce">
+        <file name="geb_types.xml" type="types"/>
+		<file name="geb_spawnabletypes.xml" type="spawnabletypes"/>
+	</ce>
+	<!-- Halo -->
+	<ce folder="_HALO_ce">
+        <file name="CBD_MasterChief_types.xml" type="types"/>
+	</ce>
+	<!-- Magazine Loading -->
+	<ce folder="_MagazineLoading_ce">
+        <file name="Hel_MagazineLoading_types.xml" type="types"/>
+	</ce>
+	<!-- MMG -->
+	<ce folder="_MMG_ce">
+		<file name="mmg_types_ADMINGEAR.xml" type="types"/>
+		<file name="mmg_types_alpine.xml" type="types"/>
+		<file name="mmg_types_atacs.xml" type="types"/>
+		<file name="mmg_types_black.xml" type="types"/>
+		<file name="mmg_types_carbines.xml" type="types"/>
+		<file name="mmg_types_dark_woodland.xml" type="types"/>
+		<file name="mmg_types_erdl.xml" type="types"/>
+		<file name="mmg_types_green.xml" type="types"/>
+		<file name="mmg_types_multicam_tropic.xml" type="types"/>
+		<file name="mmg_types_multicam.xml" type="types"/>
+		<file name="mmg_types_multicamblack.xml" type="types"/>
+		<file name="mmg_types_NBC+NVG.xml" type="types"/>
+		<file name="mmg_types_patches.xml" type="types"/>
+		<file name="mmg_types_police.xml" type="types"/>
+		<file name="mmg_types_tan.xml" type="types"/>
+		<file name="mmg_types_ucp.xml" type="types"/>
+		<file name="mmg_cfgspawnabletypes.xml" type="spawnabletypes"/>
+	</ce>
+	<!-- MMG Storage -->
+	<ce folder="_MMGStorage_ce">
+        <file name="types.xml" type="types"/>
+		<file name="raidsaw_types.xml" type="types"/>
+		<file name="mmg_storage.xml" type="types"/>
+		<file name="mmg_raidtools.xml" type="types"/>
+	</ce>
+	<!-- MuchCarKey -->
+	<ce folder="_MuchCarKey_ce">
+        <file name="types.xml" type="types"/>
+	</ce>
+	<!-- Much Stuf Pack -->
+	<ce folder="_MuchStuffPack_ce">
+        <file name="msp_types.xml" type="types"/>
+		<file name="newtypes.xml" type="types"/>
+	</ce>
+	<!-- Predadores -->
+	<ce folder="_Predadores_ce">
+        <file name="Predador_types.xml" type="types"/>
+		<file name="Predador_events.xml" type="events"/>
+		<file name="Predador_cfgspawnabletypes.xml" type="spawnabletypes"/>
+	</ce>
+	<!-- QuaLocks -->
+	<ce folder="_QUADLOCKS_ce">
+        <file name="QUADLOCKS.xml" type="types"/>
+	</ce>
+	<!-- Quadri bike -->
+	<ce folder="_Quadribike_ce">
+        <file name="quadbike_types.xml" type="types"/>
+	</ce>
+	<!-- Radio -->
+	<ce folder="_Radio_ce">
+        <file name="types.xml" type="types"/>
+	</ce>	
+	<!-- Rev Guns -->
+	<ce folder="_RevGuns_ce">
+        <file name="RevGuns_types.xml" type="types"/>
+		<file name="RevGuns_spawnabletypes.xml" type="spawnabletypes"/>
+	</ce>
+	<!-- RFFS -->
+	<ce folder="_RFFS_ce">
+        <file name="RFFSHelis_Types.xml" type="types"/>
+	</ce>
+    <!-- SNAFU Weapons -->
+    <ce folder="_SNAFU_ce">
+        <file name="SNAFU_types.xml" type="types"/>
+        <file name="snafuspawnabletypes25percent.xml" type="spawnabletypes"/>
+	</ce>
+	<!-- Painel Solar -->
+	<ce folder="_SolarPainel_ce">
+        <file name="Types.xml" type="types"/>
+	</ce>
+	<!-- MOD Stalker -->
+	<ce folder="_Stalker_ce">
+        <file name="Types.xml" type="types"/>
+	</ce>	
+	<!-- Velha Guarda -->
+	<ce folder="_VelhaGuarda_ce">
+        <file name="TypesVelhaGuarda.xml" type="types"/>
+	</ce>
+	<!-- WCP -->
+	<ce folder="_WCP_ce">
+        <file name="types.xml" type="types"/>
+	</ce>
+	<!-- Outros -->
+	<ce folder="_Outros_ce">
+        <file name="OutrosTypes.xml" type="types"/>
+	</ce>
+</economycore>

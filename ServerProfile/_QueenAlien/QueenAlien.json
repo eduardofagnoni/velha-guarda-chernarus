@@ -1,0 +1,89 @@
+{
+    "ActiveReward": 1,
+    "PorcentageDrop": 10,
+    "Reward": [
+        {
+            "Name": "Reward1",
+            "Container": "QueenAlien_Storage",
+            "Items": [
+                {
+                    "Item": "BloodBagEmpty",
+                    "Quantity": 1,
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "DisinfectantSpray",
+                    "Quantity": 1,
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "PunchedCard",
+                    "Quantity": 1,
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "BloodBagEmpty",
+                    "Quantity": 1,
+                    "ItemAttachments": []
+                }
+            ]
+        },
+        {
+            "Name": "Reward2",
+            "Container": "QueenAlien_Storage",
+            "Items": [
+                {
+                    "Item": "DNA_CardReader",
+                    "Quantity": 1,
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "DNA_Solder",
+                    "Quantity": 1,
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "DNA_Solder",
+                    "Quantity": 1,
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "DNA_Laptop",
+                    "Quantity": 1,
+                    "ItemAttachments": []
+                }
+            ]
+        },
+        {
+            "Name": "Reward3",
+            "Container": "QueenAlien_Storage",
+            "Items": [                
+                {
+                    "Item": "DNA_KeyCard_Error",
+                    "Quantity": 1,
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "DNA_KeyCard_BlisterPackChip_Red",
+                    "Quantity": 1,
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "DNA_KeyCard_BlisterPackChip_Red",
+                    "Quantity": 1,
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "Screwdriver",
+                    "Quantity": 1,
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "DNA_Solder_Kit",
+                    "Quantity": 1,
+                    "ItemAttachments": []
+                }
+            ]
+        }
+    ]
+}

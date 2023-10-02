@@ -1,0 +1,361 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2023-9-19_16-3-27
+====================================================================================
+16:3:27 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+16:3:27 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+16:3:27 | [PermissionManager] Perm (FreeCamera) has been registered!
+16:3:27 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+16:3:27 | [PermissionManager] Perm (MenuItemManager) has been registered!
+16:3:27 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+16:3:27 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+16:3:27 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+16:3:27 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+16:3:27 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+16:3:27 | [PermissionManager] Perm (MenuServerManager) has been registered!
+16:3:27 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+16:3:27 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+16:3:27 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+16:3:27 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+16:3:27 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+16:3:27 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+16:3:27 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+16:3:27 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+16:3:27 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+16:3:27 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+16:3:27 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+16:3:27 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+16:3:27 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+16:3:27 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+16:3:27 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+16:3:27 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+16:3:27 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+16:3:27 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+16:3:27 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+16:3:27 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+16:3:27 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+16:3:27 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+16:3:27 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+16:3:27 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+16:3:27 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+16:3:27 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+16:3:27 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+16:3:27 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+16:3:27 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+16:3:27 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+16:3:27 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+16:3:27 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+16:3:27 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+16:3:27 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+16:3:27 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+16:3:27 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+16:3:27 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+16:3:27 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+16:3:27 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+16:3:27 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+16:3:27 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+16:3:27 | [PermissionManager] Perm (MenuBansManager) has been registered!
+16:3:27 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+16:3:27 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+16:3:27 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+16:3:27 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+16:3:27 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+16:3:27 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+16:3:27 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+16:3:27 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+16:3:27 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+16:3:27 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+16:3:27 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+16:3:27 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+16:3:27 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+16:3:27 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+16:3:27 | [PermissionManager] Perm (TeleportManager:TeleportEntity) has been registered!
+16:3:27 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+16:3:27 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+16:3:27 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+16:3:27 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+16:3:27 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+16:3:27 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+16:3:27 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+16:3:27 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+16:3:27 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+16:3:27 | [PermissionManager] Adding Super Admin (76561198363861269)
+16:3:27 | [PermissionManager] Adding Super Admin (76561199350150099)
+16:3:27 | [PermissionManager] Loaded UserGroups.json
+16:3:27 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+16:3:27 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+16:3:27 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+16:3:27 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+16:3:27 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+16:3:27 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+16:3:27 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+16:3:27 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+16:3:27 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+16:3:27 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+16:3:27 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+16:3:27 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+16:3:27 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+16:3:27 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+16:3:27 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+16:3:27 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+16:3:27 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+16:3:27 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+16:3:27 | Building Sets Loaded: 2
+16:3:29 | [SteamAPIManager] WARNING couldn't fetch server IP from configs; using cURL...
+16:3:29 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+16:5:21 | Player "Anubis" (steamId=76561198363861269) connected to server!
+16:6:5 | "76561198363861269" (steamid=76561198363861269) teleported to (pos=<4914.390137, 195.464096, 13598.000000>)
+16:6:5 | "Anubis": (steamid=76561198363861269) teleported to (pos=4914.39,0,13598)
+16:6:26 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<4909.934082, 195.634262, 13612.659180>)
+16:6:27 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<4916.472656, 195.972794, 13612.356445>)
+16:6:27 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<4916.472168, 195.972778, 13612.356445>)
+16:6:27 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<4916.472168, 195.972763, 13612.356445>)
+16:6:27 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<4916.472656, 195.972778, 13612.356445>)
+16:6:27 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<4919.979004, 196.160263, 13612.219727>)
+16:6:27 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<4922.568359, 196.309082, 13612.166992>)
+16:6:27 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<4922.323242, 196.298355, 13612.271484>)
+16:6:27 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<4922.206055, 196.294128, 13612.346680>)
+16:6:27 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<4926.410156, 196.536636, 13612.229492>)
+16:6:27 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<4928.140137, 196.634644, 13612.176758>)
+16:6:27 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<4927.995117, 196.629364, 13612.258789>)
+16:6:27 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<4927.817871, 196.622925, 13612.359375>)
+16:6:27 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<4927.876953, 196.626144, 13612.357422>)
+16:6:27 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<4932.507324, 196.880905, 13612.225586>)
+16:6:27 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<4933.587402, 196.943939, 13612.299805>)
+16:6:27 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<4933.475586, 196.940231, 13612.375000>)
+16:6:27 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<4933.475098, 196.940201, 13612.375000>)
+16:6:27 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<4933.475098, 196.940201, 13612.374023>)
+16:6:27 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<4937.506348, 197.169678, 13612.383789>)
+16:6:27 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<4939.072266, 197.259567, 13612.386719>)
+16:6:27 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<4939.083984, 197.260269, 13612.387695>)
+16:6:27 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<4939.113281, 197.261948, 13612.388672>)
+16:6:27 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<4943.604004, 197.513428, 13612.236328>)
+16:6:27 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<4944.945313, 197.586624, 13612.135742>)
+16:6:27 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<4945.045410, 197.589706, 13612.065430>)
+16:6:27 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<4945.103027, 197.591690, 13612.030273>)
+16:6:27 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<4945.102539, 197.591705, 13612.030273>)
+16:6:27 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<4948.689453, 197.791473, 13611.874023>)
+16:6:28 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<4950.986816, 197.914337, 13611.700195>)
+16:6:28 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<4951.111816, 197.914978, 13611.545898>)
+16:6:28 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<4952.029785, 197.964569, 13611.399414>)
+16:6:28 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<4954.933105, 198.132385, 13611.173828>)
+16:6:28 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<4957.010742, 198.246277, 13610.874023>)
+16:6:28 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<4957.010742, 198.246262, 13610.874023>)
+16:6:28 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<4957.010742, 198.246292, 13610.874023>)
+16:6:28 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<4960.708984, 198.425980, 13610.517578>)
+16:6:28 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<4962.870117, 198.527054, 13610.221680>)
+16:6:28 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<4963.084473, 198.536926, 13610.190430>)
+16:6:28 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<4965.694336, 198.657669, 13609.940430>)
+16:6:28 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<4968.610352, 198.769196, 13609.591797>)
+16:6:28 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<4969.298340, 198.794968, 13609.498047>)
+16:6:28 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<4971.010742, 198.862473, 13609.334961>)
+16:6:28 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<4973.933594, 198.971420, 13609.003906>)
+16:6:28 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<4975.607910, 199.030823, 13608.799805>)
+16:6:28 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<4975.607910, 199.030823, 13608.799805>)
+16:6:28 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<4976.307617, 199.056213, 13608.725586>)
+16:6:28 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<4980.087891, 199.193146, 13608.323242>)
+16:6:28 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<4981.241211, 199.233475, 13608.169922>)
+16:6:28 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<4981.475098, 199.241653, 13608.139648>)
+16:6:28 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<4981.316895, 199.236343, 13608.164063>)
+16:6:28 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<4981.959473, 199.259888, 13608.100586>)
+16:6:28 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<4985.454590, 199.386475, 13607.728516>)
+16:6:28 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<4986.806152, 199.434204, 13607.558594>)
+16:6:28 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<4987.105957, 199.444717, 13607.520508>)
+16:6:28 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<4987.276367, 199.451096, 13607.506836>)
+16:6:28 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<4988.360840, 199.490524, 13607.394531>)
+16:6:28 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<4992.252441, 199.630386, 13606.957031>)
+16:6:28 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<4992.666992, 199.645767, 13606.919922>)
+16:6:28 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<4992.598145, 199.643982, 13606.941406>)
+16:6:28 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<4992.509277, 199.641098, 13606.959961>)
+16:6:28 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<4993.777344, 199.686966, 13606.823242>)
+16:6:28 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<4997.791992, 199.832413, 13606.395508>)
+16:6:28 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<4997.791992, 199.832413, 13606.395508>)
+16:6:29 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<4998.571289, 199.860870, 13606.318359>)
+16:6:29 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<4999.009277, 199.876999, 13606.276367>)
+16:6:29 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<5000.043457, 199.914352, 13606.165039>)
+16:6:29 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<5002.996582, 200.017715, 13605.848633>)
+16:6:29 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<5002.996582, 200.017715, 13605.848633>)
+16:6:29 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<5003.907227, 200.048981, 13605.761719>)
+16:6:29 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<5004.261230, 200.061157, 13605.728516>)
+16:6:29 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<5006.204590, 200.126801, 13605.518555>)
+16:6:29 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<5008.228027, 200.195129, 13605.300781>)
+16:6:29 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<5008.503418, 200.204620, 13605.274414>)
+16:6:29 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<5009.407227, 200.235611, 13605.188477>)
+16:6:29 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<5011.385254, 200.331924, 13604.973633>)
+16:6:29 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<5011.386230, 200.331924, 13604.972656>)
+16:6:29 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<5013.146973, 200.428726, 13604.777344>)
+16:6:29 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<5015.377441, 200.551727, 13604.539063>)
+16:6:29 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<5016.298340, 200.602554, 13604.440430>)
+16:6:29 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<5016.298340, 200.602554, 13604.440430>)
+16:6:29 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<5016.580078, 200.618073, 13604.409180>)
+16:6:29 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<5018.069824, 200.678085, 13604.247070>)
+16:6:29 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<5020.902832, 200.722397, 13603.962891>)
+16:6:29 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<5021.685059, 200.734619, 13603.884766>)
+16:6:29 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<5021.883301, 200.737793, 13603.866211>)
+16:6:29 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<5023.911621, 200.769302, 13603.661133>)
+16:6:29 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<5026.457031, 200.818527, 13603.400391>)
+16:6:29 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<5026.581543, 200.821198, 13603.386719>)
+16:6:29 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<5027.418945, 200.838974, 13603.304688>)
+16:6:29 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<5031.455566, 200.923416, 13602.888672>)
+16:6:29 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<5032.645508, 200.948776, 13602.770508>)
+16:6:29 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<5032.905273, 200.954620, 13602.745117>)
+16:6:29 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<5032.905273, 200.954605, 13602.745117>)
+16:6:29 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<5032.905762, 200.954636, 13602.744141>)
+16:6:29 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<5033.610352, 200.970322, 13602.672852>)
+16:6:29 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<5038.131348, 201.082306, 13602.206055>)
+16:6:29 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<5038.292480, 201.086487, 13602.189453>)
+16:6:30 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<5038.292480, 201.086487, 13602.189453>)
+16:6:30 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<5038.608887, 201.094757, 13602.158203>)
+16:6:30 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<5040.556152, 201.145050, 13601.957031>)
+16:6:30 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<5043.715820, 201.227203, 13601.629883>)
+16:6:30 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<5044.010254, 201.235321, 13601.602539>)
+16:6:30 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<5044.011230, 201.235275, 13601.601563>)
+16:6:30 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<5044.011230, 201.235275, 13601.601563>)
+16:6:30 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<5044.011230, 201.235275, 13601.601563>)
+16:6:30 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<5046.788086, 201.310242, 13601.312500>)
+16:6:30 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<5049.153320, 201.389572, 13601.066406>)
+16:6:30 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<5049.341797, 201.396576, 13601.049805>)
+16:6:30 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<5050.593262, 201.441833, 13600.916992>)
+16:6:30 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<5054.310059, 201.588974, 13600.521484>)
+16:6:30 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<5054.310059, 201.588974, 13600.521484>)
+16:6:30 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<5054.310059, 201.588974, 13600.521484>)
+16:6:30 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<5055.625977, 201.634705, 13600.385742>)
+16:6:30 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<5055.759277, 201.638443, 13600.372070>)
+16:6:30 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<5058.726563, 201.720886, 13600.062500>)
+16:6:30 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<5060.642578, 201.768219, 13599.868164>)
+16:6:30 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<5063.178711, 201.822342, 13599.606445>)
+16:6:30 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<5064.112793, 201.853134, 13599.506836>)
+16:6:48 | "76561198363861269" (steamid=76561198363861269) teleported to (pos=<778.434021, 459.902344, 12780.200195>)
+16:6:48 | "Anubis": (steamid=76561198363861269) teleported to (pos=778.434,0,12780.2)
+16:7:8 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<749.328491, 460.465973, 12795.271484>)
+16:7:8 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<744.264282, 460.614777, 12799.969727>)
+16:7:8 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<744.264282, 460.614777, 12799.969727>)
+16:7:9 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<744.264282, 460.614777, 12799.969727>)
+16:7:9 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<742.394775, 460.670868, 12801.704102>)
+16:7:9 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<739.411438, 460.826233, 12804.488281>)
+16:7:9 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<738.548340, 460.875458, 12805.294922>)
+16:7:9 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<736.332397, 461.001923, 12807.365234>)
+16:7:9 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<734.731018, 461.088806, 12808.860352>)
+16:7:9 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<734.731018, 461.088806, 12808.860352>)
+16:7:9 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<732.206970, 461.167664, 12811.203125>)
+16:7:9 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<731.385803, 461.185608, 12811.963867>)
+16:7:9 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<730.185364, 461.211578, 12813.075195>)
+16:7:9 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<729.507874, 461.223022, 12813.744141>)
+16:7:9 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<729.427124, 461.220734, 12813.871094>)
+16:7:9 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<727.516479, 461.260040, 12815.668945>)
+16:7:9 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<724.929260, 461.297546, 12818.099609>)
+16:7:9 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<724.092957, 461.316986, 12818.893555>)
+16:7:9 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<723.640625, 461.327087, 12819.331055>)
+16:7:9 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<721.689575, 461.370758, 12821.208984>)
+16:7:9 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<718.812256, 461.449524, 12823.925781>)
+16:7:9 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<718.766235, 461.451019, 12823.972656>)
+16:7:9 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<716.716919, 461.528748, 12826.120117>)
+16:7:9 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<716.563843, 461.532745, 12826.360352>)
+16:7:9 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<716.569336, 461.531799, 12826.371094>)
+16:7:9 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<714.892090, 461.620697, 12827.958984>)
+16:7:9 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<712.686951, 461.730164, 12830.212891>)
+16:7:9 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<710.699951, 461.821808, 12832.241211>)
+16:7:9 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<710.018372, 461.853333, 12832.892578>)
+16:7:9 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<709.115967, 461.891083, 12833.812500>)
+16:7:9 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<707.761047, 461.947632, 12835.194336>)
+16:7:9 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<707.207703, 461.969177, 12835.791016>)
+16:7:9 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<704.989441, 462.054108, 12838.214844>)
+16:7:9 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<704.968872, 462.038147, 12838.591797>)
+16:7:9 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<703.245239, 462.081390, 12840.905273>)
+16:7:10 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<702.863831, 462.093506, 12841.450195>)
+16:7:10 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<700.441528, 462.183655, 12844.531250>)
+16:7:10 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<698.443909, 462.254547, 12847.059570>)
+16:7:10 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<698.443909, 462.254547, 12847.059570>)
+16:7:10 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<697.843994, 462.282074, 12847.836914>)
+16:7:10 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<695.824829, 462.413086, 12850.466797>)
+16:7:10 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<695.623779, 462.426453, 12850.722656>)
+16:7:10 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<694.084534, 462.528290, 12852.682617>)
+16:7:10 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<691.882263, 462.675568, 12855.549805>)
+16:7:10 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<691.425293, 462.708679, 12856.145508>)
+16:7:10 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<690.519775, 462.774750, 12857.299805>)
+16:7:10 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<689.721802, 462.835083, 12858.317383>)
+16:7:10 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<689.182129, 462.878571, 12859.022461>)
+16:7:10 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<687.015747, 463.052765, 12861.848633>)
+16:7:10 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<685.519348, 463.190704, 12863.762695>)
+16:7:10 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<685.519348, 463.190704, 12863.762695>)
+16:7:10 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<683.733276, 463.365479, 12866.103516>)
+16:7:10 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<682.930176, 463.443970, 12867.155273>)
+16:7:10 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<682.930176, 463.443970, 12867.155273>)
+16:7:10 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<681.560974, 463.573151, 12868.887695>)
+16:7:10 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<678.785034, 463.833466, 12872.371094>)
+16:7:10 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<678.632446, 463.848145, 12872.395508>)
+16:7:10 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<677.410156, 463.963776, 12873.632813>)
+16:7:10 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<677.228943, 463.981476, 12873.462891>)
+16:7:10 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<677.214050, 463.982910, 12873.439453>)
+16:7:10 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<675.254700, 464.167786, 12875.787109>)
+16:7:10 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<673.440186, 464.320923, 12877.598633>)
+16:7:10 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<672.103577, 464.431427, 12878.911133>)
+16:7:10 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<670.778320, 464.540680, 12880.461914>)
+16:7:10 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<670.778320, 464.540680, 12880.461914>)
+16:7:10 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<670.778320, 464.540680, 12880.461914>)
+16:7:10 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<668.345764, 464.741760, 12882.874023>)
+16:7:10 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<667.618774, 464.801910, 12883.593750>)
+16:7:10 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<664.934509, 464.989838, 12886.415039>)
+16:7:11 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<663.709900, 465.069244, 12887.701172>)
+16:7:11 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<662.210876, 465.166565, 12889.253906>)
+16:7:11 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<660.222473, 465.295624, 12891.314453>)
+16:7:11 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<660.256409, 465.293976, 12891.241211>)
+16:7:11 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<660.196472, 465.299408, 12891.158203>)
+16:7:11 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<657.760620, 465.451904, 12893.650391>)
+16:7:11 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<655.966370, 465.564117, 12895.473633>)
+16:7:11 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<655.710022, 465.580078, 12895.734375>)
+16:7:11 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<653.962097, 465.690247, 12897.421875>)
+16:7:11 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<653.212646, 465.737549, 12898.144531>)
+16:7:11 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<653.212646, 465.737549, 12898.144531>)
+16:7:11 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<652.208069, 465.800293, 12899.166016>)
+16:7:11 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<650.271057, 465.924713, 12901.088867>)
+16:7:11 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<648.484558, 466.041931, 12902.824219>)
+16:7:11 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<647.686646, 466.093872, 12903.636719>)
+16:7:11 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<647.686646, 466.093872, 12903.636719>)
+16:7:11 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<644.570496, 466.300140, 12906.699219>)
+16:7:11 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<643.983887, 466.341736, 12907.276367>)
+16:7:11 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<643.538940, 466.375275, 12907.727539>)
+16:7:11 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<643.179138, 466.404053, 12908.092773>)
+16:7:11 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<642.045898, 466.494690, 12909.211914>)
+16:7:11 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<639.636353, 466.687378, 12911.590820>)
+16:7:11 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<639.536621, 466.695374, 12911.691406>)
+16:7:11 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<638.812073, 466.753326, 12912.425781>)
+16:7:11 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<635.378235, 467.032990, 12915.818359>)
+16:7:11 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<635.308472, 467.038910, 12915.887695>)
+16:7:11 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<634.646851, 467.094513, 12916.557617>)
+16:7:11 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<634.460083, 467.110168, 12916.746094>)
+16:7:11 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<632.667236, 467.260681, 12918.519531>)
+16:7:11 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<631.011536, 467.399689, 12920.156250>)
+16:7:11 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<630.729736, 467.423370, 12920.441406>)
+16:7:11 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<630.130615, 467.473755, 12921.045898>)
+16:7:11 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<630.130615, 467.473755, 12921.045898>)
+16:7:11 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<627.430359, 467.686523, 12923.713867>)
+16:7:12 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<626.070679, 467.795288, 12925.069336>)
+16:7:12 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<624.125610, 467.950806, 12926.998047>)
+16:7:12 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<623.087769, 468.033661, 12928.023438>)
+16:7:12 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<623.087769, 468.033661, 12928.023438>)
+16:7:12 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<622.354248, 468.089661, 12928.751953>)
+16:7:12 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<619.642151, 468.255768, 12931.434570>)
+16:7:12 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<619.642151, 468.255768, 12931.434570>)
+16:7:12 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<618.671143, 468.315277, 12932.389648>)
+16:7:12 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<615.805054, 468.490814, 12935.224609>)
+16:7:12 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<614.349609, 468.579071, 12936.659180>)
+16:7:12 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<614.065674, 468.596100, 12936.937500>)
+16:7:12 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<614.064209, 468.596130, 12936.937500>)
+16:7:12 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<612.777771, 468.674164, 12938.208984>)
+16:7:12 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<609.778687, 468.857819, 12941.174805>)
+16:7:12 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<609.765991, 468.858612, 12941.186523>)
+16:7:12 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<609.487732, 468.875641, 12941.456055>)
+16:7:12 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<609.458557, 468.877441, 12941.484375>)
+16:7:12 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<605.402466, 469.119568, 12945.489258>)
+16:7:12 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<604.843201, 469.151550, 12946.039063>)
+16:7:12 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<604.831360, 469.152252, 12946.049805>)
+16:7:12 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<604.831360, 469.152252, 12946.049805>)
+16:7:12 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<601.606995, 469.336792, 12949.232422>)
+16:7:12 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<600.224548, 469.416016, 12950.597656>)
+16:7:12 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<600.185913, 469.418091, 12950.631836>)
+16:7:12 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<600.176697, 469.418732, 12950.640625>)
+16:7:12 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<596.898865, 469.610901, 12953.878906>)
+16:7:12 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<595.618469, 469.684265, 12955.144531>)
+16:7:21 | Player "Anubis" (steamId=76561198363861269) initiated disconnect process...
+16:7:23 | Player "Anubis" (steamId=76561198363861269) disconnected early from server (EXIT NOW).
+16:7:26 | Player "Anubis" (steamId=76561198363861269) disconnected from server.

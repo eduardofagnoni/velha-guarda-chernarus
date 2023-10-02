@@ -1,0 +1,170 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2023-9-29_15-33-27
+====================================================================================
+15:33:27 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+15:33:27 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+15:33:27 | [PermissionManager] Perm (FreeCamera) has been registered!
+15:33:27 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+15:33:27 | [PermissionManager] Perm (MenuItemManager) has been registered!
+15:33:27 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+15:33:27 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+15:33:27 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+15:33:27 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+15:33:27 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+15:33:27 | [PermissionManager] Perm (MenuServerManager) has been registered!
+15:33:27 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+15:33:27 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+15:33:27 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+15:33:27 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+15:33:27 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+15:33:27 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+15:33:27 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+15:33:27 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+15:33:27 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+15:33:27 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+15:33:27 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+15:33:27 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+15:33:27 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+15:33:27 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+15:33:27 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+15:33:27 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+15:33:27 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+15:33:27 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+15:33:27 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+15:33:27 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+15:33:27 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+15:33:27 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+15:33:27 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+15:33:27 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+15:33:27 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+15:33:27 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+15:33:27 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+15:33:27 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+15:33:27 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+15:33:27 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+15:33:27 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+15:33:27 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+15:33:27 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+15:33:27 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+15:33:27 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+15:33:27 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+15:33:27 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+15:33:27 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+15:33:27 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+15:33:27 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+15:33:27 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+15:33:27 | [PermissionManager] Perm (MenuBansManager) has been registered!
+15:33:27 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+15:33:27 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+15:33:27 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+15:33:27 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+15:33:27 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+15:33:27 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+15:33:27 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+15:33:27 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+15:33:27 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+15:33:27 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+15:33:27 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+15:33:27 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+15:33:27 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+15:33:27 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+15:33:27 | [PermissionManager] Perm (TeleportManager:TeleportEntity) has been registered!
+15:33:27 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+15:33:27 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+15:33:27 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+15:33:27 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+15:33:27 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+15:33:27 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+15:33:27 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+15:33:27 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+15:33:27 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+15:33:27 | [PermissionManager] Adding Super Admin (76561198363861269)
+15:33:27 | [PermissionManager] Adding Super Admin (76561199350150099)
+15:33:27 | [PermissionManager] Loaded UserGroups.json
+15:33:27 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+15:33:27 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+15:33:27 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+15:33:27 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+15:33:27 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+15:33:27 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+15:33:27 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+15:33:27 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+15:33:27 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+15:33:27 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+15:33:27 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+15:33:27 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+15:33:27 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+15:33:27 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+15:33:27 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+15:33:27 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+15:33:27 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+15:33:27 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+15:33:27 | Building Sets Loaded: 2
+15:33:29 | [SteamAPIManager] WARNING couldn't fetch server IP from configs; using cURL...
+15:33:29 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+15:35:9 | Player "[ADM] Fagnoni" (steamId=76561198363861269) connected to server!
+15:36:1 | "[ADM] Fagnoni" (steamid=76561198363861269) toggled godmode
+15:36:22 | "76561198363861269" (steamid=76561198363861269) teleported to (pos=<5942.970215, 480.460907, 14874.799805>)
+15:36:22 | "[ADM] Fagnoni": (steamid=76561198363861269) teleported to (pos=5942.97,0,14874.8)
+15:36:35 | "[ADM] Fagnoni" (steamid=76561198363861269) toggled freecam
+15:36:54 | "[ADM] Fagnoni" (steamid=76561198363861269) teleported to crosshair (pos=<5477.655273, 485.660248, 14906.165039>)
+15:37:3 | "[ADM] Fagnoni" (steamid=76561198363861269) teleported to crosshair (pos=<5477.666504, 485.664856, 14906.170898>)
+15:37:9 | "[ADM] Fagnoni" (steamid=76561198363861269) toggled freecam
+15:38:28 | "76561198363861269" (steamid=76561198363861269) teleported to (pos=<7376.419922, 5.560121, 2621.169922>)
+15:38:28 | "[ADM] Fagnoni": (steamid=76561198363861269) teleported to (pos=7376.42,0,2621.17)
+15:38:44 | "[ADM] Fagnoni" (steamid=76561198363861269) toggled freecam
+15:39:0 | "[ADM] Fagnoni" (steamid=76561198363861269) teleported to crosshair (pos=<6331.567383, 0.816841, 2030.189331>)
+15:39:8 | "[ADM] Fagnoni" (steamid=76561198363861269) teleported to crosshair (pos=<6571.587891, 0.287186, 1836.666382>)
+15:39:16 | "[ADM] Fagnoni" (steamid=76561198363861269) teleported to crosshair (pos=<7495.999023, 0.631828, 2439.203613>)
+15:39:26 | "[ADM] Fagnoni" (steamid=76561198363861269) teleported to crosshair (pos=<7884.119629, 0.783279, 2388.419678>)
+15:39:45 | "76561198363861269" (steamid=76561198363861269) teleported to (pos=<6999.290039, -54.354061, 1526.030029>)
+15:39:45 | "[ADM] Fagnoni": (steamid=76561198363861269) teleported to (pos=6999.29,0,1526.03)
+15:39:51 | "[ADM] Fagnoni" (steamid=76561198363861269) toggled freecam
+15:40:21 | "76561198363861269" (steamid=76561198363861269) teleported to (pos=<6595.479980, 5.897630, 2295.520020>)
+15:40:21 | "[ADM] Fagnoni": (steamid=76561198363861269) teleported to (pos=6595.48,0,2295.52)
+15:40:35 | "[ADM] Fagnoni" (steamid=76561198363861269) toggled freecam
+15:40:45 | "[ADM] Fagnoni" (steamid=76561198363861269) teleported to crosshair (pos=<6058.916016, 2.045999, 1782.025513>)
+15:41:2 | "[ADM] Fagnoni" (steamid=76561198363861269) teleported to crosshair (pos=<5498.209961, 5.346988, 1814.759766>)
+15:41:26 | "[ADM] Fagnoni" (steamid=76561198363861269) teleported to crosshair (pos=<8206.825195, 2.626945, 2178.647217>)
+15:41:30 | "[ADM] Fagnoni" (steamid=76561198363861269) toggled freecam
+15:42:8 | "76561198363861269" (steamid=76561198363861269) teleported to (pos=<482.734009, 6.000000, 1662.170044>)
+15:42:8 | "[ADM] Fagnoni": (steamid=76561198363861269) teleported to (pos=482.734,0,1662.17)
+15:42:14 | "[ADM] Fagnoni" (steamid=76561198363861269) toggled freecam
+15:42:21 | "[ADM] Fagnoni" (steamid=76561198363861269) teleported to crosshair (pos=<843.551392, 2.222353, 1252.719849>)
+15:42:30 | "[ADM] Fagnoni" (steamid=76561198363861269) teleported to crosshair (pos=<834.417053, 2.547886, 1218.906616>)
+15:42:31 | "[ADM] Fagnoni" (steamid=76561198363861269) toggled freecam
+15:43:20 | "[ADM] Fagnoni" (steamid=76561198363861269) gave unlimited ammo to (steamid=76561198363861269)
+15:45:22 | "[ADM] Fagnoni" (steamid=76561198363861269) Spawned Item: (Chemlight_White)
+15:45:25 | "[ADM] Fagnoni" (steamid=76561198363861269) Spawned Item: (Chemlight_White)
+15:45:25 | "[ADM] Fagnoni" (steamid=76561198363861269) Spawned Item: (Chemlight_White)
+15:45:25 | "[ADM] Fagnoni" (steamid=76561198363861269) Spawned Item: (Chemlight_White)
+15:45:26 | "[ADM] Fagnoni" (steamid=76561198363861269) Spawned Item: (Chemlight_White)
+15:45:26 | "[ADM] Fagnoni" (steamid=76561198363861269) Spawned Item: (Chemlight_White)
+15:45:27 | "[ADM] Fagnoni" (steamid=76561198363861269) Spawned Item: (Chemlight_White)
+15:45:27 | "[ADM] Fagnoni" (steamid=76561198363861269) Spawned Item: (Chemlight_White)
+15:45:27 | "[ADM] Fagnoni" (steamid=76561198363861269) Spawned Item: (Chemlight_White)
+15:45:28 | "[ADM] Fagnoni" (steamid=76561198363861269) Spawned Item: (Chemlight_White)
+15:45:28 | "[ADM] Fagnoni" (steamid=76561198363861269) Spawned Item: (Chemlight_White)
+15:45:28 | "[ADM] Fagnoni" (steamid=76561198363861269) Spawned Item: (Chemlight_White)
+15:45:29 | "[ADM] Fagnoni" (steamid=76561198363861269) Spawned Item: (Chemlight_White)
+15:45:29 | "[ADM] Fagnoni" (steamid=76561198363861269) Spawned Item: (Chemlight_White)
+15:46:51 | "[ADM] Fagnoni" (steamid=76561198363861269) Spawned Item: (TLRLight)
+15:46:53 | "[ADM] Fagnoni" (steamid=76561198363861269) Spawned Item: (UniversalLight)
+15:47:57 | "[ADM] Fagnoni" (steamid=76561198363861269) Spawned Item: (Battery9V)
+15:47:57 | "[ADM] Fagnoni" (steamid=76561198363861269) Spawned Item: (Battery9V)
+15:47:58 | "[ADM] Fagnoni" (steamid=76561198363861269) Spawned Item: (Battery9V)
+15:57:39 | "[ADM] Fagnoni" (steamid=76561198363861269) Spawned Item: (BRTX_HeavyVest_CaptA)
+15:58:13 | "[ADM] Fagnoni" (steamid=76561198363861269) Spawned Item: (Chemlight_White)
+15:58:13 | "[ADM] Fagnoni" (steamid=76561198363861269) Spawned Item: (Chemlight_White)
+15:58:13 | "[ADM] Fagnoni" (steamid=76561198363861269) Spawned Item: (Chemlight_White)
+15:58:13 | "[ADM] Fagnoni" (steamid=76561198363861269) Spawned Item: (Chemlight_White)
+15:58:13 | "[ADM] Fagnoni" (steamid=76561198363861269) Spawned Item: (Chemlight_White)
+15:58:13 | "[ADM] Fagnoni" (steamid=76561198363861269) Spawned Item: (Chemlight_White)
+15:58:14 | "[ADM] Fagnoni" (steamid=76561198363861269) Spawned Item: (Chemlight_White)
+15:58:14 | "[ADM] Fagnoni" (steamid=76561198363861269) Spawned Item: (Chemlight_White)
+15:58:14 | "[ADM] Fagnoni" (steamid=76561198363861269) Spawned Item: (Chemlight_White)
+16:9:30 | "[ADM] Fagnoni" (steamid=76561198363861269) toggled freecam
+16:10:37 | "[ADM] Fagnoni" (steamid=76561198363861269) toggled freecam
+16:20:12 | Player "[ADM] Fagnoni" (steamId=76561198363861269) initiated disconnect process...
+16:20:15 | Player "[ADM] Fagnoni" (steamId=76561198363861269) disconnected early from server (EXIT NOW).
+16:20:17 | Player "[ADM] Fagnoni" (steamId=76561198363861269) disconnected from server.

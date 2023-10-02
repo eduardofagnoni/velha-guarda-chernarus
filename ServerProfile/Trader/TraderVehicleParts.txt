@@ -1,0 +1,1183 @@
+<VehicleParts> OffroadHatchback		// Vehicle Classname
+	SparkPlug				// Classname of Item to attach when Vehicle gets bought
+	CarBattery
+	CarRadiator
+        Wrench
+	HeadlightH7
+	HeadlightH7
+	HatchbackDoors_CoDriver
+	HatchbackDoors_Driver
+	HatchbackHood
+	HatchbackTrunk
+	HatchbackWheel
+	HatchbackWheel
+	HatchbackWheel
+	HatchbackWheel
+	HatchbackWheel
+
+<VehicleParts> Offroad_02
+        Offroad_02_Door_1_1
+        Offroad_02_Door_1_2
+        Offroad_02_Door_2_1
+        Offroad_02_Door_2_2
+        Offroad_02_Hood
+        Offroad_02_Trunk
+	GlowPlug	
+        Wrench					
+	CarBattery
+	CarRadiator        
+	HeadlightH7
+	HeadlightH7
+        Offroad_02_Wheel
+        Offroad_02_Wheel
+        Offroad_02_Wheel
+        Offroad_02_Wheel
+        Offroad_02_Wheel
+
+\\<VehicleParts> OffroadHatchback_Blue
+	\\SparkPlug						
+	\\CarBattery
+	\\CarRadiator
+	\\HeadlightH7
+	\\HeadlightH7
+	\\HatchbackDoors_CoDriver_Blue
+	\\HatchbackDoors_Driver_Blue
+	\\HatchbackHood_Blue
+	\\HatchbackTrunk_Blue
+	\\HatchbackWheel
+	\\HatchbackWheel
+	\\HatchbackWheel
+	\\HatchbackWheel
+
+\\<VehicleParts> OffroadHatchback_White
+	\\SparkPlug
+	\\CarBattery
+	\\CarRadiator
+	\\HeadlightH7
+	\\HeadlightH7
+	\\HatchbackDoors_CoDriver_White
+	\\HatchbackDoors_Driver_White
+	\\HatchbackHood_White
+	\\HatchbackTrunk_White
+	\\HatchbackWheel
+	\\HatchbackWheel
+	\\HatchbackWheel
+	\\HatchbackWheel
+
+<VehicleParts> Hatchback_02
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	Hatchback_02_Door_1_1
+	Hatchback_02_Door_1_2
+	Hatchback_02_Door_2_1
+	Hatchback_02_Door_2_2
+	Hatchback_02_Hood
+	Hatchback_02_Trunk
+	Hatchback_02_Wheel
+	Hatchback_02_Wheel
+	Hatchback_02_Wheel
+	Hatchback_02_Wheel
+	Hatchback_02_Wheel
+
+\\<VehicleParts> Hatchback_02_Black
+	\\SparkPlug
+	\\CarBattery
+	\\CarRadiator
+	\\HeadlightH7
+	\\HeadlightH7
+	\\Hatchback_02_Door_1_1_Black
+	\\Hatchback_02_Door_1_2_Black
+	\\Hatchback_02_Door_2_1_Black
+	\\Hatchback_02_Door_2_2_Black
+	\\Hatchback_02_Hood_Black
+	\\Hatchback_02_Trunk_Black
+	\\Hatchback_02_Wheel
+	\\Hatchback_02_Wheel
+	\\Hatchback_02_Wheel
+	\\Hatchback_02_Wheel
+
+\\<VehicleParts> Hatchback_02_Blue
+	\\SparkPlug
+	\\CarBattery
+	\\CarRadiator
+	\\HeadlightH7
+	\\HeadlightH7
+	\\Hatchback_02_Door_1_1_Blue
+	\\Hatchback_02_Door_1_2_Blue
+	\\Hatchback_02_Door_2_1_Blue
+	\\Hatchback_02_Door_2_2_Blue
+	\\Hatchback_02_Hood_Blue
+	\\Hatchback_02_Trunk_Blue
+	\\Hatchback_02_Wheel
+	\\Hatchback_02_Wheel
+	\\Hatchback_02_Wheel
+	\\Hatchback_02_Wheel
+
+<VehicleParts> CivilianSedan
+	SparkPlug
+	CarBattery	
+        Wrench
+	CarRadiator
+        Wrench
+	HeadlightH7
+	HeadlightH7
+	CivSedanDoors_Driver
+	CivSedanDoors_CoDriver
+	CivSedanDoors_BackLeft
+	CivSedanDoors_BackRight
+	CivSedanHood
+	CivSedanTrunk
+	CivSedanWheel
+	CivSedanWheel
+	CivSedanWheel
+	CivSedanWheel
+
+\\<VehicleParts> CivilianSedan_Wine
+\\	SparkPlug
+\\	CarBattery
+	\\CarRadiator
+	\\HeadlightH7
+	\\HeadlightH7
+	\\CivSedanDoors_Driver_Wine
+	\\CivSedanDoors_CoDriver_Wine
+	\\CivSedanDoors_BackLeft_Wine
+	\\CivSedanDoors_BackRight_Wine
+	\\CivSedanHood_Wine
+	\\CivSedanTrunk_Wine
+	\\CivSedanWheel
+	\\CivSedanWheel
+	\\CivSedanWheel
+	\\CivSedanWheel
+
+\\<VehicleParts> CivilianSedan_Black
+	\\SparkPlug
+	\\CarBattery
+	\\CarRadiator
+	\\HeadlightH7
+	\\HeadlightH7
+	\\CivSedanDoors_Driver_Black
+	\\CivSedanDoors_CoDriver_Black
+	\\CivSedanDoors_BackLeft_Black
+	\\CivSedanDoors_BackRight_Black
+	\\CivSedanHood_Black
+	\\CivSedanTrunk_Black
+	\\CivSedanWheel
+	\\CivSedanWheel
+	\\CivSedanWheel
+	\\CivSedanWheel
+
+<VehicleParts> Sedan_02_Grey
+	SparkPlug	
+        Wrench
+	CarBattery
+	CarRadiator
+        Wrench
+	HeadlightH7
+	HeadlightH7
+	Sedan_02_Door_1_1_Grey
+	Sedan_02_Door_1_2_Grey
+	Sedan_02_Door_2_1_Grey
+	Sedan_02_Door_2_2_Grey
+	Sedan_02_Hood_Grey
+	Sedan_02_Trunk_Grey
+	Sedan_02_Wheel
+	Sedan_02_Wheel
+	Sedan_02_Wheel
+	Sedan_02_Wheel
+
+<VehicleParts>Truck_01_Covered
+    TruckBattery
+	Truck_01_Door_1_1
+	Truck_01_Door_2_1
+	Truck_01_Hood
+	Truck_01_Wheel
+	Truck_01_WheelDouble
+	SparkPlug
+	HeadlightH7	
+        Wrench
+	HeadlightH7
+	CarRadiator
+	Truck_01_Wheel
+	Truck_01_WheelDouble
+	Truck_01_WheelDouble
+	Truck_01_WheelDouble
+
+
+<VehicleParts>Helipolice_SIB4
+	HatchbackWheel
+	HatchbackWheel
+	HatchbackWheel
+	HatchbackWheel
+	SIBPolice_Door_1_1
+	SIBPolice_Door_1_2
+	SIBPolice_Door_2_1
+	SIBPolice_Door_2_2
+	SIBPolice_blade1
+	SIBPolice_blade2
+	SIBPolice_blade3
+	SIBPolice_blade4
+	SIBPolice_bladem1
+	SIBPolice_bladem2
+	CarBattery	
+        Wrench
+	HeadlightH7
+	HeadlightH7
+
+<VehicleParts>Helipolice_swat_SIB5
+	HatchbackWheel
+	HatchbackWheel
+	HatchbackWheel
+	HatchbackWheel
+	SIBPolice_Door_1_1_swat
+	SIBPolice_Door_1_2_swat
+	SIBPolice_Door_2_1_swat
+	SIBPolice_Door_2_2_swat
+	SIBPolice_blade1
+	SIBPolice_blade2
+	SIBPolice_blade3
+	SIBPolice_blade4
+	SIBPolice_bladem1
+	SIBPolice_bladem2
+	CarBattery	
+        Wrench
+	HeadlightH7
+	HeadlightH7
+
+<VehicleParts>Helichinook_RF
+	HatchbackWheel
+	HatchbackWheel	
+        Wrench
+	HatchbackWheel
+	HatchbackWheel
+	RFchinook_Door_1_1
+	RFchinook_Door_1_2
+	RFchinook_Door_2_2
+	RFchinook_blade1
+	RFchinook_blade2
+	RFchinook_blade3
+	RFchinook_rear_blade1
+	RFchinook_rear_blade2
+	RFchinook_rear_blade3
+	CarBattery
+	HeadlightH7
+	HeadlightH7
+
+<VehicleParts>Helilittle_bird_RF
+	RFlittle_bird_blade1
+	RFlittle_bird_blade2	
+        Wrench
+	RFlittle_bird_blade3
+	RFlittle_bird_blade4
+	RFlittle_bird_blade5
+	RFlittle_bird_bladem1
+	RFlittle_bird_bladem3
+
+<VehicleParts>ZIL130_green
+        SparkPlug
+		CarRadiator
+		TruckBattery	
+        Wrench
+        HeadlightH7
+        HeadlightH7	
+		ZIL130_Doors_hood_green
+		ZIL130_Doors_Driver_green
+		ZIL130_Doors_coDriver_green
+		ZIL130_Doors_trunk_green
+		ZIL130_tent_green
+		ZIL130_Wheel
+		ZIL130_Wheel
+		ZIL130_Wheel
+		ZIL130_Wheel2
+		ZIL130_Wheel2
+		ZIL130_Wheel2
+		
+<VehicleParts>Kamaz_4350
+        Kamaz_4350_Doors_Driver   	
+        Kamaz_4350_Doors_coDriver 	
+        Kamaz_4350_Doors_trunk 		
+        Wrench
+        Kamaz_4350_tent
+        SparkPlug
+		CarRadiator
+		TruckBattery
+        HeadlightH7
+        HeadlightH7 
+		Kamaz_4350_Wheel
+		Kamaz_4350_Wheel
+		Kamaz_4350_Wheel
+		Kamaz_4350_Wheel
+		Kamaz_4350_Wheel
+		Kamaz_4350_Wheel
+		Kamaz_4350_Wheel
+		
+<VehicleParts>Kamaz_Typhoon_green
+		Kamaz_Typhoon_Doors_Driver_green
+		Kamaz_Typhoon_Doors_coDriver_green
+		Kamaz_Typhoon_Doors_cargo1_green
+		Kamaz_Typhoon_Doors_trunk_green
+		Kamaz_Typhoon_Tent_green
+		Kamaz_Typhoon_Wheel	
+        Wrench
+		Kamaz_Typhoon_Wheel
+		Kamaz_Typhoon_Wheel
+		Kamaz_Typhoon_Wheel
+		Kamaz_Typhoon_Wheel
+		Kamaz_Typhoon_Wheel
+		Kamaz_Typhoon_Wheel
+	    SparkPlug
+		TruckBattery
+		CarRadiator
+		HeadlightH7
+		HeadlightH7
+		
+<VehicleParts>Novator
+		SparkPlug
+		CarBattery
+		CarRadiator
+		HeadlightH7	
+        Wrench
+		HeadlightH7
+		Novator_Doors_Driver
+		Novator_Doors_coDriver
+		Novator_Doors_cargo1
+		Novator_Doors_cargo2
+		Novator_Doors_cargo3
+		Novator_Doors_cargo4
+		Novator_Doors_hood
+		Novator_Doors_trunk
+		Novator_Wheel
+		Novator_Wheel
+		Novator_Wheel
+		Novator_Wheel
+		Novator_Wheel		
+		
+<VehicleParts>TLC_200_red		
+		TLC_200_Doors_Driver_red
+		TLC_200_Doors_coDriver_red
+		TLC_200_Doors_hood_red
+		TLC_200_Doors_cargo1_red	
+        Wrench
+		TLC_200_Doors_cargo2_red
+		TLC_200_Doors_cargo3_red
+		TLC_200_Doors_cargo4_red
+		SparkPlug
+		CarBattery
+		CarRadiator
+		HeadlightH7
+		HeadlightH7
+        TLC_200_Wheel
+        TLC_200_Wheel
+        TLC_200_Wheel
+        TLC_200_Wheel
+        TLC_200_Wheel		
+		
+<VehicleParts>TLC_200_blue		
+        TLC_200_Doors_Driver_blue
+		TLC_200_Doors_coDriver_blue
+		TLC_200_Doors_hood_blue
+		TLC_200_Doors_cargo1_blue
+		TLC_200_Doors_cargo2_blue
+		TLC_200_Doors_cargo3_blue
+		TLC_200_Doors_cargo4_blue	
+        Wrench
+	    SparkPlug
+		CarBattery
+		CarRadiator
+		HeadlightH7
+		HeadlightH7
+        TLC_200_Wheel
+        TLC_200_Wheel
+        TLC_200_Wheel
+        TLC_200_Wheel
+        TLC_200_Wheel		
+		
+<VehicleParts>TLC_200	
+		TLC_200_Doors_Driver
+		TLC_200_Doors_coDriver
+		TLC_200_Doors_hood	
+        Wrench
+		TLC_200_Doors_cargo1
+		TLC_200_Doors_cargo2
+		TLC_200_Doors_cargo3
+		TLC_200_Doors_cargo4
+		SparkPlug
+		CarBattery
+		CarRadiator
+		HeadlightH7
+		HeadlightH7
+        TLC_200_Wheel
+        TLC_200_Wheel
+        TLC_200_Wheel
+        TLC_200_Wheel
+        TLC_200_Wheel	
+
+<VehicleParts>RAPTOR
+        RAPTOR_Doors_Driver
+        RAPTOR_Doors_coDriver
+        RAPTOR_Doors_cargo1	
+        Wrench
+        RAPTOR_Doors_cargo2
+        RAPTOR_Doors_hood
+        RAPTOR_Doors_trunk
+		SparkPlug
+		CarBattery
+		CarRadiator
+		HeadlightH7
+		HeadlightH7
+		RAPTOR_Wheel
+		RAPTOR_Wheel
+		RAPTOR_Wheel
+		RAPTOR_Wheel
+		RAPTOR_Wheel
+		
+<VehicleParts>RAPTOR_blue
+		SparkPlug
+		CarBattery
+		CarRadiator
+		HeadlightH7
+		HeadlightH7	
+        Wrench
+		RAPTOR_Wheel
+		RAPTOR_Wheel
+		RAPTOR_Wheel
+		RAPTOR_Wheel
+		RAPTOR_Wheel
+        RAPTOR_Doors_Driver_blue
+        RAPTOR_Doors_coDriver_blue
+        RAPTOR_Doors_cargo1_blue
+        RAPTOR_Doors_cargo2_blue
+        RAPTOR_Doors_hood_blue
+        RAPTOR_Doors_trunk_blue	
+
+<VehicleParts>RAPTOR_red
+		SparkPlug
+		CarBattery
+		CarRadiator
+		HeadlightH7
+		HeadlightH7
+		RAPTOR_Wheel
+		RAPTOR_Wheel
+		RAPTOR_Wheel	
+        Wrench
+		RAPTOR_Wheel
+		RAPTOR_Wheel
+		RAPTOR_Doors_Driver_red
+		RAPTOR_Doors_coDriver_red
+		RAPTOR_Doors_cargo1_red
+		RAPTOR_Doors_cargo2_red
+		RAPTOR_Doors_hood_red
+		RAPTOR_Doors_trunk_red	
+
+<VehicleParts>BTR82A
+		BTR82A_Doors_Driver
+		BTR82A_Doors_coDriver
+		BTR82A_Doors_hood	
+		SparkPlug
+		CarBattery
+		CarRadiator
+		HeadlightH7
+		HeadlightH7
+		BTR82A_Wheel
+		BTR82A_Wheel	
+        Wrench
+		BTR82A_Wheel
+		BTR82A_Wheel
+		BTR82A_Wheel
+		BTR82A_Wheel
+		BTR82A_Wheel
+		
+<VehicleParts>BTR
+		SparkPlug
+		CarBattery
+		CarRadiator
+		HeadlightH7
+		HeadlightH7
+                Wrench	
+		BTR_Wheel	
+        Wrench
+		BTR_Wheel
+		BTR_Wheel
+		BTR_Wheel
+		BTR_Wheel
+		BTR_Wheel
+		BTR_Wheel
+		BTR_Doors_Driver
+		BTR_Doors_coDriver
+		BTR_Doors_cargo1
+		BTR_Doors_cargo2
+		BTR_Doors_cargo3
+		BTR_Doors_hood1
+		BTR_Doors_hood2
+		
+<VehicleParts>BTR_black
+		SparkPlug
+		CarBattery
+		CarRadiator
+		HeadlightH7
+                Wrench
+		HeadlightH7	
+		BTR_Wheel
+		BTR_Wheel
+		BTR_Wheel
+		BTR_Wheel
+		BTR_Wheel
+		BTR_Wheel
+		BTR_Wheel
+		BTR_Doors_Driver_black
+		BTR_Doors_coDriver_black
+		BTR_Doors_cargo1_black
+		BTR_Doors_cargo2_black
+		BTR_Doors_cargo3_black
+		BTR_Doors_hood1_black
+		BTR_Doors_hood2_black
+
+
+<VehicleParts> Croco_QuadBike_Grey
+	SparkPlug
+	CarBattery
+	CarRadiator
+        Wrench
+	HeadlightH7	
+        Wrench
+	HeadlightH7
+	Croco_QuadBike_Wheel
+	Croco_QuadBike_Wheel
+	Croco_QuadBike_Wheel_Rear
+	Croco_QuadBike_Wheel_Rear
+	
+<VehicleParts> Croco_QuadBike_Yellow
+	SparkPlug
+	CarBattery
+        Wrench
+	CarRadiator
+	HeadlightH7
+	HeadlightH7	
+        Wrench
+	Croco_QuadBike_Wheel
+	Croco_QuadBike_Wheel
+	Croco_QuadBike_Wheel_Rear
+	Croco_QuadBike_Wheel_Rear
+	
+<VehicleParts> Croco_QuadBike_Green
+	SparkPlug
+	CarBattery
+	CarRadiator
+        Wrench
+	HeadlightH7
+	HeadlightH7
+	Croco_QuadBike_Wheel
+	Croco_QuadBike_Wheel
+	Croco_QuadBike_Wheel_Rear
+	Croco_QuadBike_Wheel_Rear
+	
+<VehicleParts> Croco_QuadBike_Red
+	SparkPlug
+	CarBattery
+        Wrench
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	Croco_QuadBike_Wheel
+	Croco_QuadBike_Wheel
+	Croco_QuadBike_Wheel_Rear
+	Croco_QuadBike_Wheel_Rear
+	
+<VehicleParts> Croco_QuadBike_Black
+	SparkPlug
+	CarBattery
+        Wrench
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	Croco_QuadBike_Wheel
+	Croco_QuadBike_Wheel
+	Croco_QuadBike_Wheel_Rear
+	Croco_QuadBike_Wheel_Rear
+
+<VehicleParts>RFFSHeli_Bell429_Devil
+        RFFSHeli_aviation_battery
+        RFFSHeli_igniter_plug
+        RFFSHeli_hydraulic_hoses
+        RFFSHeli_wiring_harness
+        HeadlightH7
+        
+<VehicleParts>RFFSHeli_Bell429_Ravens
+        RFFSHeli_aviation_battery
+        RFFSHeli_igniter_plug
+        RFFSHeli_hydraulic_hoses
+        RFFSHeli_wiring_harness
+        HeadlightH7
+        
+<VehicleParts>RFFSHeli_Bell429_NoMilk
+        RFFSHeli_aviation_battery
+        RFFSHeli_igniter_plug
+        RFFSHeli_hydraulic_hoses
+        RFFSHeli_wiring_harness
+        HeadlightH7
+        
+<VehicleParts>RFFSHeli_Bell429_DayDreams
+        RFFSHeli_aviation_battery
+        RFFSHeli_igniter_plug
+        RFFSHeli_hydraulic_hoses
+        RFFSHeli_wiring_harness
+        HeadlightH7
+        
+<VehicleParts>RFFSHeli_Bell429_MP
+        RFFSHeli_aviation_battery
+        RFFSHeli_igniter_plug
+        RFFSHeli_hydraulic_hoses
+        RFFSHeli_wiring_harness
+        HeadlightH7
+        
+<VehicleParts>RFFSHeli_Bell429_Bloody
+        RFFSHeli_aviation_battery
+        RFFSHeli_igniter_plug
+        RFFSHeli_hydraulic_hoses
+        RFFSHeli_wiring_harness
+        HeadlightH7
+        
+<VehicleParts>RFFSHeli_Bell429_Witcher
+        RFFSHeli_aviation_battery
+        RFFSHeli_igniter_plug
+        RFFSHeli_hydraulic_hoses
+        RFFSHeli_wiring_harness
+        HeadlightH7
+        
+<VehicleParts>RFFSHeli_Bell429_USAEagle
+        RFFSHeli_aviation_battery
+        RFFSHeli_igniter_plug
+        RFFSHeli_hydraulic_hoses
+        RFFSHeli_wiring_harness
+        HeadlightH7
+        
+<VehicleParts>RFFSHeli_Bell429_PunisherPO
+        RFFSHeli_aviation_battery
+        RFFSHeli_igniter_plug
+        RFFSHeli_hydraulic_hoses
+        RFFSHeli_wiring_harness
+        HeadlightH7
+		
+<VehicleParts>RFFSHeli_Bell429_Horde
+        RFFSHeli_aviation_battery
+        RFFSHeli_igniter_plug
+        RFFSHeli_hydraulic_hoses
+        RFFSHeli_wiring_harness
+        HeadlightH7
+        
+<VehicleParts>RFFSHeli_Bell429_Camo14
+        RFFSHeli_aviation_battery
+        RFFSHeli_igniter_plug
+        RFFSHeli_hydraulic_hoses
+        RFFSHeli_wiring_harness
+        HeadlightH7
+        
+<VehicleParts>RFFSHeli_Bell429_Camo77
+        RFFSHeli_aviation_battery
+        RFFSHeli_igniter_plug
+        RFFSHeli_hydraulic_hoses
+        RFFSHeli_wiring_harness
+        HeadlightH7
+        
+<VehicleParts>RFFSHeli_Bell429_Camo253
+        RFFSHeli_aviation_battery
+        RFFSHeli_igniter_plug
+        RFFSHeli_hydraulic_hoses
+        RFFSHeli_wiring_harness
+        HeadlightH7
+        
+<VehicleParts>RFFSHeli_Bell429_Camo257
+        RFFSHeli_aviation_battery
+        RFFSHeli_igniter_plug
+        RFFSHeli_hydraulic_hoses
+        RFFSHeli_wiring_harness
+        HeadlightH7
+        
+<VehicleParts>RFFSHeli_Bell429_Fallout
+        RFFSHeli_aviation_battery
+        RFFSHeli_igniter_plug
+        RFFSHeli_hydraulic_hoses
+        RFFSHeli_wiring_harness
+        HeadlightH7
+        
+<VehicleParts>RFFSHeli_Bell429_Gold1
+        RFFSHeli_aviation_battery
+        RFFSHeli_igniter_plug
+        RFFSHeli_hydraulic_hoses
+        RFFSHeli_wiring_harness
+        HeadlightH7
+        
+<VehicleParts>RFFSHeli_Bell429_Gold1A
+        RFFSHeli_aviation_battery
+        RFFSHeli_igniter_plug
+        RFFSHeli_hydraulic_hoses
+        RFFSHeli_wiring_harness
+        HeadlightH7
+        
+<VehicleParts>RFFSHeli_Bell429_RusticMetal
+        RFFSHeli_aviation_battery
+        RFFSHeli_igniter_plug
+        RFFSHeli_hydraulic_hoses
+        RFFSHeli_wiring_harness
+        HeadlightH7
+        
+<VehicleParts>RFFSHeli_Bell429_Spiderman
+        RFFSHeli_aviation_battery
+        RFFSHeli_igniter_plug
+        RFFSHeli_hydraulic_hoses
+        RFFSHeli_wiring_harness
+        HeadlightH7
+		
+<VehicleParts>RFFSHeli_Bell429_Spongebob
+        RFFSHeli_aviation_battery
+        RFFSHeli_igniter_plug
+        RFFSHeli_hydraulic_hoses
+        RFFSHeli_wiring_harness
+        HeadlightH7
+
+<VehicleParts>RFFSHeli_Bell429_Ugly
+        RFFSHeli_aviation_battery
+        RFFSHeli_igniter_plug
+        RFFSHeli_hydraulic_hoses
+        RFFSHeli_wiring_harness
+        HeadlightH7
+        
+<VehicleParts>RFFSHeli_Bell429_Umbrella
+        RFFSHeli_aviation_battery
+        RFFSHeli_igniter_plug
+        RFFSHeli_hydraulic_hoses
+        RFFSHeli_wiring_harness
+        HeadlightH7
+        
+<VehicleParts>RFFSHeli_Bell429_UnCiv
+        RFFSHeli_aviation_battery
+        RFFSHeli_igniter_plug
+        RFFSHeli_hydraulic_hoses
+        RFFSHeli_wiring_harness
+        HeadlightH7
+        
+<VehicleParts>RFFSHeli_Bell429_Venom
+        RFFSHeli_aviation_battery
+        RFFSHeli_igniter_plug
+        RFFSHeli_hydraulic_hoses
+        RFFSHeli_wiring_harness
+        HeadlightH7
+        
+<VehicleParts>RFFSHeli_Bell429_Winter31
+        RFFSHeli_aviation_battery
+        RFFSHeli_igniter_plug
+        RFFSHeli_hydraulic_hoses
+        RFFSHeli_wiring_harness
+        HeadlightH7
+        
+<VehicleParts>RFFSHeli_Bell429_Winter67
+        RFFSHeli_aviation_battery
+        RFFSHeli_igniter_plug
+        RFFSHeli_hydraulic_hoses
+        RFFSHeli_wiring_harness
+        HeadlightH7
+        
+<VehicleParts>RFFSHeli_Bell429_Winter80
+        RFFSHeli_aviation_battery
+        RFFSHeli_igniter_plug
+        RFFSHeli_hydraulic_hoses
+        RFFSHeli_wiring_harness
+        HeadlightH7
+        
+<VehicleParts>RFFSHeli_Bell429_Winter81
+        RFFSHeli_aviation_battery
+        RFFSHeli_igniter_plug
+        RFFSHeli_hydraulic_hoses
+        RFFSHeli_wiring_harness
+        HeadlightH7
+        
+<VehicleParts>RFFSHeli_Bell429_Winter82
+        RFFSHeli_aviation_battery
+        RFFSHeli_igniter_plug
+        RFFSHeli_hydraulic_hoses
+        RFFSHeli_wiring_harness
+        HeadlightH7
+        HeadlightH7
+        
+<VehicleParts>RFFSHeli_Bell429_UglyIrish
+        RFFSHeli_aviation_battery
+        RFFSHeli_igniter_plug
+        RFFSHeli_hydraulic_hoses
+        RFFSHeli_wiring_harness
+        HeadlightH7
+        
+<VehicleParts>RFFSHeli_Bell429_Camo49
+        RFFSHeli_aviation_battery
+        RFFSHeli_igniter_plug
+        RFFSHeli_hydraulic_hoses
+        RFFSHeli_wiring_harness
+        HeadlightH7
+        
+<VehicleParts>RFFSHeli_Bell429_Camo70
+        RFFSHeli_aviation_battery
+        RFFSHeli_igniter_plug
+        RFFSHeli_hydraulic_hoses
+        RFFSHeli_wiring_harness
+        HeadlightH7
+        
+<VehicleParts>RFFSHeli_Bell429_Clawz
+        RFFSHeli_aviation_battery
+        RFFSHeli_igniter_plug
+        RFFSHeli_hydraulic_hoses
+        RFFSHeli_wiring_harness
+        HeadlightH7  
+        
+<VehicleParts>RFFSHeli_Bo105m_Bane 
+        RFFSHeli_aviation_battery
+        RFFSHeli_igniter_plug
+        RFFSHeli_hydraulic_hoses
+        RFFSHeli_wiring_harness
+        HeadlightH7
+        HeadlightH7
+
+<VehicleParts>RFFSHeli_Bo105m_Beast
+        RFFSHeli_aviation_battery
+        RFFSHeli_igniter_plug
+        RFFSHeli_hydraulic_hoses
+        RFFSHeli_wiring_harness
+        HeadlightH7
+        HeadlightH7
+        
+<VehicleParts>RFFSHeli_Bo105m_BeastMode 
+        RFFSHeli_aviation_battery
+        RFFSHeli_igniter_plug
+        RFFSHeli_hydraulic_hoses
+        RFFSHeli_wiring_harness
+        HeadlightH7
+        HeadlightH7
+
+<VehicleParts>RFFSHeli_Bo105m_Camo257
+        RFFSHeli_aviation_battery
+        RFFSHeli_igniter_plug
+        RFFSHeli_hydraulic_hoses
+        RFFSHeli_wiring_harness
+        HeadlightH7
+        HeadlightH7
+        
+<VehicleParts>RFFSHeli_Bo105m_Evil 
+        RFFSHeli_aviation_battery
+        RFFSHeli_igniter_plug
+        RFFSHeli_hydraulic_hoses
+        RFFSHeli_wiring_harness
+        HeadlightH7
+        HeadlightH7
+
+<VehicleParts>RFFSHeli_EC135 
+        RFFSHeli_aviation_battery
+        RFFSHeli_igniter_plug
+        RFFSHeli_hydraulic_hoses
+        RFFSHeli_wiring_harness
+        HeadlightH7
+        HeadlightH7
+
+<VehicleParts>RFFSHeli_Ka26 
+        RFFSHeli_aviation_battery
+        RFFSHeli_igniter_plug
+        RFFSHeli_hydraulic_hoses
+        RFFSHeli_wiring_harness
+        HeadlightH7
+        HeadlightH7
+
+<VehicleParts>RFFSHeli_Blackhawk 
+        RFFSHeli_aviation_battery
+        RFFSHeli_igniter_plug
+        RFFSHeli_hydraulic_hoses
+        RFFSHeli_wiring_harness
+        HeadlightH7
+        HeadlightH7
+
+<VehicleParts>RFFSHeli_Bo105m_Ghost
+        RFFSHeli_aviation_battery
+        RFFSHeli_igniter_plug
+        RFFSHeli_hydraulic_hoses
+        RFFSHeli_wiring_harness
+        HeadlightH7
+        HeadlightH7
+        
+<VehicleParts>RFFSHeli_Bo105m_GoldUnCiv 
+        RFFSHeli_aviation_battery
+        RFFSHeli_igniter_plug
+        RFFSHeli_hydraulic_hoses
+        RFFSHeli_wiring_harness
+        HeadlightH7
+        HeadlightH7
+
+<VehicleParts>LUAZ
+        LUAZ_tent
+        LUAZ_Doors_Driver
+        LUAZ_Doors_coDriver
+        LUAZ_Doors_hood
+        LUAZ_Doors_trunk
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	Hatchback_02_Wheel
+	Hatchback_02_Wheel
+	Hatchback_02_Wheel
+	Hatchback_02_Wheel
+	Hatchback_02_Wheel
+
+<VehicleParts>LUAZ_black
+        LUAZ_tent_black
+        LUAZ_Doors_Driver_black
+        LUAZ_Doors_coDriver_black
+        LUAZ_Doors_hood_black
+        LUAZ_Doors_trunk_black
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	Hatchback_02_Wheel
+	Hatchback_02_Wheel
+	Hatchback_02_Wheel
+	Hatchback_02_Wheel
+	Hatchback_02_Wheel
+
+<VehicleParts>LUAZ_blue
+        LUAZ_tent_blue
+        LUAZ_Doors_Driver_blue
+        LUAZ_Doors_coDriver_blue
+        LUAZ_Doors_hood_blue
+        LUAZ_Doors_trunk_blue
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	Hatchback_02_Wheel
+	Hatchback_02_Wheel
+	Hatchback_02_Wheel
+	Hatchback_02_Wheel
+	Hatchback_02_Wheel
+
+<VehicleParts>UAZ469_offroad_Blue
+	UAZ469_offroad_Doors_Driver_Blue
+	UAZ469_offroad_Doors_coDriver_Blue
+	UAZ469_offroad_Doors_cargo1_Blue
+	UAZ469_offroad_Doors_cargo2_Blue
+	UAZ469_offroad_Doors_cargo3_Blue
+	UAZ469_offroad_Doors_Hood_Blue
+	UAZ469_offroad_Doors_Trunk_Blue
+	UAZ469_offroad_Wheel
+	UAZ469_offroad_Wheel
+	UAZ469_offroad_Wheel
+	UAZ469_offroad_Wheel
+	UAZ469_offroad_Wheel
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+
+<VehicleParts>UAZ469_offroad_Yellow
+	UAZ469_offroad_Doors_Driver_Yellow
+	UAZ469_offroad_Doors_coDriver_Yellow
+	UAZ469_offroad_Doors_cargo1_Yellow
+	UAZ469_offroad_Doors_cargo2_Yellow
+	UAZ469_offroad_Doors_cargo3_Yellow
+	UAZ469_offroad_Doors_Hood_Yellow
+	UAZ469_offroad_Doors_Trunk_Yellow
+	UAZ469_offroad_Wheel
+	UAZ469_offroad_Wheel
+	UAZ469_offroad_Wheel
+	UAZ469_offroad_Wheel
+	UAZ469_offroad_Wheel
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+
+<VehicleParts>UAZ469_offroad_Red
+	UAZ469_offroad_Doors_Driver_Red
+	UAZ469_offroad_Doors_coDriver_Red
+	UAZ469_offroad_Doors_cargo1_Red
+	UAZ469_offroad_Doors_cargo2_Red
+	UAZ469_offroad_Doors_cargo3_Red
+	UAZ469_offroad_Doors_Hood_Red
+	UAZ469_offroad_Doors_Trunk_Red
+	UAZ469_offroad_Wheel
+	UAZ469_offroad_Wheel
+	UAZ469_offroad_Wheel
+	UAZ469_offroad_Wheel
+	UAZ469_offroad_Wheel
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+
+<VehicleParts>UAZ_3909
+	UAZ_3909_Doors_Driver
+	UAZ_3909_Doors_coDriver
+	UAZ_3909_Doors_cargo1
+	UAZ_3909_Doors_cargo2
+	UAZ_3909_Doors_hood
+	UAZ_3909_Doors_cargo3
+	UAZ_3909_Wheel
+	UAZ_3909_Wheel
+	UAZ_3909_Wheel
+	UAZ_3909_Wheel
+	UAZ_3909_Wheel
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+
+<VehicleParts>UAZ_3909_blue
+	UAZ_3909_Doors_Driver_blue
+	UAZ_3909_Doors_coDriver_blue
+	UAZ_3909_Doors_cargo1_blue
+	UAZ_3909_Doors_cargo2_blue
+	UAZ_3909_Doors_hood_blue
+	UAZ_3909_Doors_cargo3_blue
+	UAZ_3909_Wheel
+	UAZ_3909_Wheel
+	UAZ_3909_Wheel
+	UAZ_3909_Wheel
+	UAZ_3909_Wheel
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+
+<VehicleParts>UAZ_3909_medic
+	UAZ_3909_Doors_Driver_medic
+	UAZ_3909_Doors_coDriver_medic
+	UAZ_3909_Doors_cargo1_medic
+	UAZ_3909_Doors_cargo2_medic
+	UAZ_3909_Doors_hood_medic
+	UAZ_3909_Doors_cargo3_medic
+	UAZ_3909_Wheel
+	UAZ_3909_Wheel
+	UAZ_3909_Wheel
+	UAZ_3909_Wheel
+	UAZ_3909_Wheel
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+
+<VehicleParts>BMW
+	BMW_Doors_Driver
+	BMW_Doors_coDriver
+	BMW_Doors_cargo1
+	BMW_Doors_cargo2
+	BMW_Doors_Hood
+	BMW_Doors_Trunk
+	BMW_Wheel
+	BMW_Wheel
+	BMW_Wheel
+	BMW_Wheel
+	BMW_Wheel
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+
+<VehicleParts>BMW_red
+	BMW_Doors_Driver_red
+	BMW_Doors_coDriver_red
+	BMW_Doors_cargo1_red
+	BMW_Doors_cargo2_red
+	BMW_Doors_Hood_red
+	BMW_Doors_Trunk_red
+	BMW_Wheel
+	BMW_Wheel
+	BMW_Wheel
+	BMW_Wheel
+	BMW_Wheel
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+
+<VehicleParts>BMW_black
+	BMW_Doors_Driver_black
+	BMW_Doors_coDriver_black
+	BMW_Doors_cargo1_black
+	BMW_Doors_cargo2_black
+	BMW_Doors_Hood_black
+	BMW_Doors_Trunk_black
+	BMW_Wheel
+	BMW_Wheel
+	BMW_Wheel
+	BMW_Wheel
+	BMW_Wheel
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+
+<VehicleParts>Range_Rover
+	Range_Rover_Doors_Driver
+	Range_Rover_Doors_coDriver
+	Range_Rover_Doors_cargo1
+	Range_Rover_Doors_cargo2
+	Range_Rover_Doors_Hood
+	Range_Rover_Doors_Trunk
+	Range_Rover_Wheel
+	Range_Rover_Wheel
+	Range_Rover_Wheel
+	Range_Rover_Wheel
+	Range_Rover_Wheel
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+
+<VehicleParts>Range_Rover_black
+	Range_Rover_Doors_Driver_black
+	Range_Rover_Doors_coDriver_black
+	Range_Rover_Doors_cargo1_black
+	Range_Rover_Doors_cargo2_black
+	Range_Rover_Doors_Hood_black
+	Range_Rover_Doors_Trunk_black
+	Range_Rover_Wheel
+	Range_Rover_Wheel
+	Range_Rover_Wheel
+	Range_Rover_Wheel
+	Range_Rover_Wheel
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+
+<VehicleParts>Range_Rover_green
+	Range_Rover_Doors_Driver_green
+	Range_Rover_Doors_coDriver_green
+	Range_Rover_Doors_cargo1_green
+	Range_Rover_Doors_cargo2_green
+	Range_Rover_Doors_Hood_green
+	Range_Rover_Doors_Trunk_green
+	Range_Rover_Wheel
+	Range_Rover_Wheel
+	Range_Rover_Wheel
+	Range_Rover_Wheel
+	Range_Rover_Wheel
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+		
+//<OpenFile> FileName.txt			// Links to another File; Must be right above <FileEnd>!
+<FileEnd>							// This has to be on the End of this File and is very importand!

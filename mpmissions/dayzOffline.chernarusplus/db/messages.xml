@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<messages>
+    <!-- <message>
+        <deadline>240</deadline>
+        <shutdown>1</shutdown>
+        <text>ATENÇÃO: O SERVIDOR   VELHA GAUARDA PVE SERÁ INTERROMPIDO EM #tmin MINUTOS!</text>
+    </message> -->
+    <message>
+        <delay>0</delay>
+        <repeat>15</repeat>
+        <onconnect>1</onconnect>
+        <text>Bem vindo ao  Bem-vindo (a) ao servidor [BR] Velha Guarda PVE_CHERNARUS, um servidor FULL PVE.</text>
+    </message>
+    <message>
+        <delay>2</delay>
+        <repeat>13</repeat>
+        <onconnect>1</onconnect>
+        <text>Veiculos são bugados, use por sua conta e risco. </text>
+    </message>
+    <!-- <message> -->
+        <!-- <delay>3</delay> -->
+        <!-- <repeat>13</repeat> -->
+        <!-- <onconnect>1</onconnect> -->
+        <!-- <text>ACESSE O PAINEL DE INFORMAÇÕES NO MENU DO GAME. </text> -->
+    <!-- </message> -->
+    <message>
+        <delay>5</delay>
+        <repeat>14</repeat>
+        <onconnect>1</onconnect>
+        <text>Registro de base no discord. </text>
+    </message>
+    <message>
+        <delay>6</delay>
+        <repeat>14</repeat>
+        <onconnect>1</onconnect>
+        <text>Para dúvidas ou suporte, basta abrir um TICKET no DISCORD. </text>
+    </message>
+</messages>

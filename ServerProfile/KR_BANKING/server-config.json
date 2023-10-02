@@ -1,0 +1,286 @@
+{
+    "ModVersion": "2.11",
+    "MenuDelay": 1.0,
+    "startCurrency": 100000,
+    "maxCurrency": 100000000,
+    "IsClanAccountActive": 1,
+    "CostsToCreateClan": 5000,
+    "CostsToInviteAnPlayer": 1000,
+    "MaxClanAccountLimit": 150000000,
+    "MaxPlayersInClan": -1,
+    "MinAmountToTransfer": 100,
+    "TransferfeesInProcent": 10,
+    "IsRobEventActive": 0,
+    "MinPlayersForRob": 5,
+    "MinMoneyForRob": 1000,
+    "MaxMoneyForRob": 5000,
+    "TimeInSecToRobATM": 120,
+    "RobMessagesActive": 1,
+    "PayCheckValue": 500,
+    "PayCheckTickTime": 40,
+    "IsPayCheckMessageActive": 1,
+    "CanAddPayCheckInSafezone": 1,
+    "PayCheckMessage": "%Amount% adicionado à sua conta bancária! Mantenha-se ativo para ganhar mais caro colega!",
+    "MinPlayersForPayCheck": 1,
+    "CanAddToFullAcc": 0,
+    "NeedsBankCardToOpenMenu": 0,
+    "m_LoggingSettings": {
+        "m_LogMode": 1,
+        "m_LogDepositOwnBank": 1,
+        "m_LogWithdraw": 1,
+        "m_LogClanDeposit": 1,
+        "m_LogClanWithdraw": 1,
+        "m_LogCreateClanAccount": 1,
+        "m_LogDeleteClanAccount": 1,
+        "m_LogInviteMember": 1,
+        "m_LogUpdatePermission": 1
+    },
+    "m_DiscordWebhook": {
+        "m_UseWebhook": 0,
+        "m_WebhookURL": "Here the full URL!",
+        "m_LogDepositToDiscord": 0,
+        "m_LogWithdrawToDiscord": 0,
+        "m_LogClanDepositToDiscord": 0,
+        "m_LogClanWithdrawToDiscord": 0,
+        "m_LogClanCreateToDiscord": 0,
+        "m_LogClanInviteMemberToDiscord": 0,
+        "m_LogClanRemoveMemberToDiscord": 0,
+        "m_LogClanUpdatePermissionToDiscord": 0,
+        "m_LogClanKickMemberToDiscord": 0,
+        "m_AdminLogUpdateServerConfig": 0,
+        "m_AdminLogUpdatePlayerData": 0,
+        "m_AdminLogUpdateClanData": 0,
+        "m_AdminLogUseMisc": 0
+    },
+    "ATM": [
+        {
+            "ATMSName": "KR_ATMBlack",
+            "Position": [
+                9619.5234375,
+                181.5194091796875,
+                10439.5078125
+            ],
+            "Direction": [
+                9.0,
+                -0.0,
+                -0.0
+            ],
+            "CanBeRobbed": 0,
+            "RobMessage": ""
+        },
+        {
+            "ATMSName": "KR_ATMBlack",
+            "Position": [
+                13861.2412109375,
+                30.33860969543457,
+                2887.830078125
+            ],
+            "Direction": [
+                -116.99994659423828,
+                0.0,
+                -0.0
+            ],
+            "CanBeRobbed": 0,
+            "RobMessage": ""
+        },
+        {
+            "ATMSName": "KR_ATMBlack",
+            "Position": [
+                2764.490478515625,
+                25.967140197753908,
+                1213.439697265625
+            ],
+            "Direction": [
+                107.99990844726563,
+                0.0,
+                -0.0
+            ],
+            "CanBeRobbed": 0,
+            "RobMessage": ""
+        },
+        {
+            "ATMSName": "KR_ATMBlack",
+            "Position": [
+                5033.80126953125,
+                9.437129020690918,
+                2358.810302734375
+            ],
+            "Direction": [
+                27.0,
+                -0.0,
+                -0.0
+            ],
+            "CanBeRobbed": 0,
+            "RobMessage": ""
+        },
+        {
+            "ATMSName": "KR_ATMBlack",
+            "Position": [
+                13222.4248046875,
+                5.9007744789123539,
+                9916.9541015625
+            ],
+            "Direction": [
+                -145.0054473876953,
+                -0.0,
+                -0.0
+            ],
+            "CanBeRobbed": 0,
+            "RobMessage": ""
+        },
+        {
+            "ATMSName": "KR_ATMBlack",
+            "Position": [
+                8870.9189453125,
+                383.97113037109377,
+                9226.951171875
+            ],
+            "Direction": [
+                -92.68093872070313,
+                0.0,
+                0.0
+            ],
+            "CanBeRobbed": 0,
+            "RobMessage": ""
+        },
+        {
+            "ATMSName": "KR_ATMBlack",
+            "Position": [
+                8870.822265625,
+                383.97113037109377,
+                9228.48828125
+            ],
+            "Direction": [
+                -93.68096160888672,
+                0.0,
+                0.0
+            ],
+            "CanBeRobbed": 0,
+            "RobMessage": ""
+        },
+        {
+            "ATMSName": "KR_ATMBlack",
+            "Position": [
+                8870.78515625,
+                383.97113037109377,
+                9230.1396484375
+            ],
+            "Direction": [
+                -93.68096160888672,
+                0.0,
+                0.0
+            ],
+            "CanBeRobbed": 0,
+            "RobMessage": ""
+        },
+        {
+            "ATMSName": "KR_ATMBlack",
+            "Position": [
+                8870.705078125,
+                383.97113037109377,
+                9231.5791015625
+            ],
+            "Direction": [
+                -93.68096160888672,
+                0.0,
+                0.0
+            ],
+            "CanBeRobbed": 0,
+            "RobMessage": ""
+        },
+        {
+            "ATMSName": "KR_ATMBlack",
+            "Position": [
+                3772.067138671875,
+                308.42681884765627,
+                7552.91162109375
+            ],
+            "Direction": [
+                31.425121307373048,
+                0.0,
+                0.0
+            ],
+            "CanBeRobbed": 0,
+            "RobMessage": ""
+        },
+        {
+            "ATMSName": "KR_ATMBlack",
+            "Position": [
+                3773.393310546875,
+                308.42681884765627,
+                7552.130859375
+            ],
+            "Direction": [
+                30.42501449584961,
+                0.0,
+                0.0
+            ],
+            "CanBeRobbed": 0,
+            "RobMessage": ""
+        },
+        {
+            "ATMSName": "KR_ATMBlack",
+            "Position": [
+                3774.7822265625,
+                308.42681884765627,
+                7551.234375
+            ],
+            "Direction": [
+                30.42501449584961,
+                0.0,
+                0.0
+            ],
+            "CanBeRobbed": 0,
+            "RobMessage": ""
+        },
+        {
+            "ATMSName": "KR_ATMBlack",
+            "Position": [
+                3776.017578125,
+                308.42681884765627,
+                7550.49462890625
+            ],
+            "Direction": [
+                30.42501449584961,
+                0.0,
+                0.0
+            ],
+            "CanBeRobbed": 0,
+            "RobMessage": ""
+        }
+    ],
+    "BankingCurrency": [
+        {
+            "CurrencyName": "Real_200",
+            "CurrencyValue": 200
+        },
+        {
+            "CurrencyName": "Real_100",
+            "CurrencyValue": 100
+        },
+        {
+            "CurrencyName": "Real_50",
+            "CurrencyValue": 50
+        },
+        {
+            "CurrencyName": "Real_20",
+            "CurrencyValue": 20
+        },
+        {
+            "CurrencyName": "Real_10",
+            "CurrencyValue": 10
+        },
+        {
+            "CurrencyName": "Real_5",
+            "CurrencyValue": 5
+        },
+        {
+            "CurrencyName": "Real_2",
+            "CurrencyValue": 2
+        },
+        {
+            "CurrencyName": "Real_1",
+            "CurrencyValue": 1
+        }
+    ]
+}

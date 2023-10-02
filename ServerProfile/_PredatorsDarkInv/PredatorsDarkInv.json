@@ -1,0 +1,101 @@
+{
+    "ActiveReward": 0,
+    "PorcentageDrop": 5,
+    "Reward": [
+        {
+            "Name": "Reward1",
+            "Container": "PredatorsDarkInv_Storage",
+            "Items": [
+                {
+                    "Item": "M4A1",
+                    "Quantity": 1,
+                    "ItemAttachments": [
+                        "M4_RISHndgrd",
+                        "M4_OEBttstck",
+                        "M68Optic",
+                        "Mag_STANAGCoupled_30Rnd"
+                    ]
+                },
+                {
+                    "Item": "PlateCarrierVest",
+                    "Quantity": 1,
+                    "ItemAttachments": [
+                        "PlateCarrierHolster"
+                    ]
+                }
+            ]
+        },
+        {
+            "Name": "Reward2",
+            "Container": "PredatorsDarkInv_Storage",
+            "Items": [
+                {
+                    "Item": "NBCBootsYellow",
+                    "Quantity": 1,
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "NBCGlovesYellow",
+                    "Quantity": 1,
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "NBCHoodYellow",
+                    "Quantity": 1,
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "NBCJacketYellow",
+                    "Quantity": 1,
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "NBCPantsYellow",
+                    "Quantity": 1,
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "GP5GasMask",
+                    "Quantity": 1,
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "GasMask_Filter",
+                    "Quantity": 3,
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "CharcoalTablets",
+                    "Quantity": 5,
+                    "ItemAttachments": []
+                }
+            ]
+        },
+        {
+            "Name": "Reward3",
+            "Container": "PredatorsDarkInv_Storage",
+            "Items": [
+                {
+                    "Item": "DNA_Bolts",
+                    "Quantity": 1,
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "DisinfectantSpray",
+                    "Quantity": 1,
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "PunchedCard",
+                    "Quantity": 1,
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "BloodBagEmpty",
+                    "Quantity": 1,
+                    "ItemAttachments": []
+                }
+            ]
+        }
+    ]
+}

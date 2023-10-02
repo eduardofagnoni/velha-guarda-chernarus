@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<spawnabletypes>    
+	<type name="PredatorClaw">
+		<cargo preset="intoPredator" />
+	</type>
+	<type name="PredatorDark">
+		<cargo preset="intoPredator" />
+	</type>
+</spawnabletypes>

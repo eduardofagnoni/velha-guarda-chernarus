@@ -1,0 +1,123 @@
+{
+    "ActiveReward": 1,
+    "PorcentageDrop": 7,
+    "Reward": [
+        {
+            "Name": "Reward1",
+            "Container": "PredatorsDark_Storage",
+            "Items": [
+                {
+                    "Item": "DNA_KeyCard_Error",
+                    "Quantity": 1,
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "DNA_KeyCard_BlisterPackChip_Red",
+                    "Quantity": 1,
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "Hammer",
+                    "Quantity": 1,
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "Screwdriver",
+                    "Quantity": 1,
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "DNA_Solder_Kit",
+                    "Quantity": 1,
+                    "ItemAttachments": []
+                }
+            ]
+        },
+        {
+            "Name": "Reward2",
+            "Container": "PredatorsDark_Storage",
+            "Items": [
+                {
+                    "Item": "JebsGuns_KrissVector_Black",
+                    "Quantity": 1,
+                    "ItemAttachments": [
+                        "JebsGuns_Mag_KrissVector_30rnd",
+                        "JebsGuns_KrissVector_Suppressor"
+                    ]
+                }
+            ]
+        },
+        {
+            "Name": "Reward3",
+            "Container": "PredatorsDark_Storage",
+            "Items": [
+                {
+                    "Item": "Thermometer",
+                    "Quantity": 1,
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "DisinfectantSpray",
+                    "Quantity": 1,
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "PunchedCard",
+                    "Quantity": 1,
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "BloodBagEmpty",
+                    "Quantity": 1,
+                    "ItemAttachments": []
+                }
+            ]
+        },
+        {
+            "Name": "Reward4",
+            "Container": "PredatorsDark_Storage",
+            "Items": [
+                {
+                    "Item": "NBCBootsYellow",
+                    "Quantity": 1,
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "NBCGlovesYellow",
+                    "Quantity": 1,
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "NBCHoodYellow",
+                    "Quantity": 1,
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "NBCJacketYellow",
+                    "Quantity": 1,
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "NBCPantsYellow",
+                    "Quantity": 1,
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "GP5GasMask",
+                    "Quantity": 1,
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "GasMask_Filter",
+                    "Quantity": 3,
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "CharcoalTablets",
+                    "Quantity": 5,
+                    "ItemAttachments": []
+                }
+            ]
+        }
+    ]
+}

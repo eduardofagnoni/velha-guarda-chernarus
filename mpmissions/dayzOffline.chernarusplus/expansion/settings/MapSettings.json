@@ -1,0 +1,225 @@
+{
+    "m_Version": 5,
+    "EnableMap": 1,
+    "UseMapOnMapItem": 1,
+    "ShowPlayerPosition": 1,
+    "ShowMapStats": 1,
+    "NeedPenItemForCreateMarker": 0,
+    "NeedGPSItemForCreateMarker": 0,
+    "CanCreateMarker": 1,
+    "CanCreate3DMarker": 1,
+    "CanOpenMapWithKeyBinding": 1,
+    "ShowDistanceOnPersonalMarkers": 1,
+    "EnableHUDGPS": 1,
+    "NeedGPSItemForKeyBinding": 1,
+    "NeedMapItemForKeyBinding": 0,
+    "EnableServerMarkers": 1,
+    "ShowNameOnServerMarkers": 1,
+    "ShowDistanceOnServerMarkers": 1,
+    "ServerMarkers": [
+
+        {
+            "m_UID": "Mercado_Negro_1",
+            "m_Visibility": 6,
+            "m_Is3D": 1,
+            "m_Text": "Mercado Negro",
+            "m_IconName": "Marker",
+            "m_Color": -18021623,
+            "m_Position": [
+                13858.2998046875,
+                32.64350128173828,
+                2881.52001953125
+            ],
+            "m_Locked": 0,
+            "m_Persist": 1
+        },
+        {
+            "m_UID": "Armeiro",
+            "m_Visibility": 6,
+            "m_Is3D": 1,
+            "m_Text": "Armeiro",
+            "m_IconName": "Marker",
+            "m_Color": -18021623,
+            "m_Position": [
+                6911.07275390625,
+                427.4809265136719,
+                11429.9091796875
+            ],
+            "m_Locked": 0,
+            "m_Persist": 1
+        },
+        {
+            "m_UID": "Caçador",
+            "m_Visibility": 6,
+            "m_Is3D": 1,
+            "m_Text": "Caçador",
+            "m_IconName": "Bear",
+            "m_Color": -18021623,
+            "m_Position": [
+                2764.43994140625,
+                25.956239700317384,
+                1228.3800048828126
+            ],
+            "m_Locked": 0,
+            "m_Persist": 1
+        },
+        {
+            "m_UID": "Pescador",
+            "m_Visibility": 6,
+            "m_Is3D": 1,
+            "m_Text": "Pescador",
+            "m_IconName": "Fish",
+            "m_Color": -13710223,
+            "m_Position": [
+                9615.900390625,
+                181.60000610351563,
+                10437.7001953125
+            ],
+            "m_Locked": 0,
+            "m_Persist": 1
+        },
+        {
+            "m_UID": "Traficante",
+            "m_Visibility": 6,
+            "m_Is3D": 1,
+            "m_Text": "Traficante",
+            "m_IconName": "Marker",
+            "m_Color": -18021623,
+            "m_Position": [
+                5752.91015625,
+                118.9990005493164,
+                4343.490234375
+            ],
+            "m_Locked": 0,
+            "m_Persist": 1
+        },
+        {
+            "m_UID": "VelhaGuarda01",
+            "m_Visibility": 6,
+            "m_Is3D": 1,
+            "m_Text": "Velha Guarda 01",
+            "m_IconName": "Trader",
+            "m_Color": -13710223,
+            "m_Position": [
+                3767.340576171875,
+                308.3768310546875,
+                7533.31591796875
+            ],
+            "m_Locked": 0,
+            "m_Persist": 1
+        },
+        {
+            "m_UID": "VelhaGuarda02",
+            "m_Visibility": 6,
+            "m_Is3D": 1,
+            "m_Text": "Velha Guarda 02",
+            "m_IconName": "Trader",
+            "m_Color": -13710223,
+            "m_Position": [
+                8886.31640625,
+                383.93634033203127,
+                9233.90625
+            ],
+            "m_Locked": 0,
+            "m_Persist": 1
+        },
+        {
+            "m_UID": "DETRAN",
+            "m_Visibility": 6,
+            "m_Is3D": 1,
+            "m_Text": "DETRAN",
+            "m_IconName": "Trader",
+            "m_Color": -13710223,
+            "m_Position": [
+                6574.66357421875,
+                286.695068359375,
+                7390.74267578125
+            ],
+            "m_Locked": 0,
+            "m_Persist": 1
+        },
+        {
+            "m_UID": "VelhaGuardaModas",
+            "m_Visibility": 6,
+            "m_Is3D": 1,
+            "m_Text": "Velha Guarda Modas",
+            "m_IconName": "Cloth",
+            "m_Color": -13710223,
+            "m_Position": [
+                13218.2998046875,
+                6.206789970397949,
+                9901.08984375
+            ],
+            "m_Locked": 0,
+            "m_Persist": 1
+        },
+        {
+            "m_UID": "Heliporto",
+            "m_Visibility": 6,
+            "m_Is3D": 1,
+            "m_Text": "Heliporto",
+            "m_IconName": "Helicopter",
+            "m_Color": -13710223,
+            "m_Position": [
+                5028.7900390625,
+                9.529999732971192,
+                2357.429931640625
+            ],
+            "m_Locked": 0,
+            "m_Persist": 1
+        },
+        {
+            "m_UID": "Garagem1",
+            "m_Visibility": 6,
+            "m_Is3D": 1,
+            "m_Text": "Garagem",
+            "m_IconName": "Car",
+            "m_Color": -13710223,
+            "m_Position": [
+                6866.22998046875,
+                7.260718822479248,
+                3080.489990234375
+            ],
+            "m_Locked": 0,
+            "m_Persist": 1
+        },
+        {
+            "m_UID": "Garagem2",
+            "m_Visibility": 6,
+            "m_Is3D": 1,
+            "m_Text": "Garagem",
+            "m_IconName": "Car",
+            "m_Color": -13710223,
+            "m_Position": [
+                2695.89990234375,
+                210.97000122070313,
+                5591.419921875
+            ],
+            "m_Locked": 0,
+            "m_Persist": 1
+        },
+        {
+            "m_UID": "Garagem3",
+            "m_Visibility": 6,
+            "m_Is3D": 1,
+            "m_Text": "Garagem",
+            "m_IconName": "Car",
+            "m_Color": -13710223,
+            "m_Position": [
+                7481.08984375,
+                121.03443908691406,
+                12663.400390625
+            ],
+            "m_Locked": 0,
+            "m_Persist": 1
+        }
+
+    ],
+    "EnableHUDCompass": 1,
+    "NeedCompassItemForHUDCompass": 1,
+    "NeedGPSItemForHUDCompass": 1,
+    "CompassColor": -1,
+    "CreateDeathMarker": 1,
+    "PlayerLocationNotifier": 1,
+    "CompassBadgesColor": -1946157056
+}

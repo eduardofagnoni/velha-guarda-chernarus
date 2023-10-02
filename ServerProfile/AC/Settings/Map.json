@@ -1,0 +1,262 @@
+{
+    "m_Enable": 1,
+    "m_PlayerMarker": 1,
+    "m_Player3DMarkers": 1,
+    "m_PlayerPosition": 1,
+    "m_RequiredMapItem": 0,
+    "m_BackgroundMarker": {
+        "m_A": 70,
+        "m_R": 0,
+        "m_G": 0,
+        "m_B": 0
+    },
+    "m_ServerMarkers": [
+        {
+            "m_Name": "Mercado Negro",
+            "m_Icon": "location",
+            "m_Color": {
+                "m_A": 255,
+                "m_R": 255,
+                "m_G": 0,
+                "m_B": 0
+            },
+            "m_Position": {
+                "m_X": 13858.2998046875,
+                "m_Y": 32.64350128173828,
+                "m_Z": 2881.52001953125
+            },
+            "m_IsActive": 1,
+            "m_3DMarker": 1
+        },
+        {
+            "m_Name": "Armeiro",
+            "m_Icon": "location",
+            "m_Color": {
+                "m_A": 255,
+                "m_R": 255,
+                "m_G": 0,
+                "m_B": 0
+            },
+            "m_Position": {
+                "m_X": 6911.07275390625,
+                "m_Y": 427.4809265136719,
+                "m_Z": 11429.9091796875
+            },
+            "m_IsActive": 1,
+            "m_3DMarker": 1
+        },
+        {
+            "m_Name": "Caçador",
+            "m_Icon": "location",
+            "m_Color": {
+                "m_A": 255,
+                "m_R": 255,
+                "m_G": 0,
+                "m_B": 0
+            },
+            "m_Position": {
+                "m_X": 2764.43994140625,
+                "m_Y": 25.920000076293947,
+                "m_Z": 1228.3800048828126
+            },
+            "m_IsActive": 1,
+            "m_3DMarker": 1
+        },
+        {
+            "m_Name": "Pescador",
+            "m_Icon": "location",
+            "m_Color": {
+                "m_A": 255,
+                "m_R": 0,
+                "m_G": 255,
+                "m_B": 0
+            },
+            "m_Position": {
+                "m_X": 9615.900390625,
+                "m_Y": 181.60000610351563,
+                "m_Z": 10437.7001953125
+            },
+            "m_IsActive": 1,
+            "m_3DMarker": 1
+        },
+        {
+            "m_Name": "Traficante",
+            "m_Icon": "location",
+            "m_Color": {
+                "m_A": 255,
+                "m_R": 255,
+                "m_G": 0,
+                "m_B": 0
+            },
+            "m_Position": {
+                "m_X": 5752.91015625,
+                "m_Y": 118.9990005493164,
+                "m_Z": 4343.490234375
+            },
+            "m_IsActive": 1,
+            "m_3DMarker": 1
+        }
+    ],
+    "m_ServerZones": [
+        {
+            "m_Name": "Velha Guarda 01",
+            "m_Icon": "shopping",
+            "m_Color": {
+                "m_A": 255,
+                "m_R": 0,
+                "m_G": 255,
+                "m_B": 0
+            },
+            "m_Positions": [
+                {
+                    "m_X": 3767.340576171875,
+                    "m_Y": 308.3768310546875,
+                    "m_Z": 7533.31591796875,
+                    "m_R": 100.0
+                }
+            ],
+            "m_IsActive": 1,
+            "m_3DMarker": 1
+        },
+        {
+            "m_Name": "Velha Guarda 02",
+            "m_Icon": "shopping",
+            "m_Color": {
+                "m_A": 255,
+                "m_R": 0,
+                "m_G": 255,
+                "m_B": 0
+            },
+            "m_Positions": [
+                {
+                    "m_X": 8886.31640625,
+                    "m_Y": 383.93634033203127,
+                    "m_Z": 9233.90625,
+                    "m_R": 100.0
+                }
+            ],
+            "m_IsActive": 1,
+            "m_3DMarker": 1
+        },
+        {
+            "m_Name": "DETRAN",
+            "m_Icon": "location",
+            "m_Color": {
+                "m_A": 255,
+                "m_R": 255,
+                "m_G": 255,
+                "m_B": 0
+            },
+            "m_Positions": [
+                {
+                    "m_X": 6574.66357421875,
+                    "m_Y": 286.695068359375,
+                    "m_Z": 7390.74267578125,
+                    "m_R": 50.0
+                }
+            ],
+            "m_IsActive": 1,
+            "m_3DMarker": 1
+        },
+        {
+            "m_Name": "Velha Guarda Modas",
+            "m_Icon": "shopping",
+            "m_Color": {
+                "m_A": 255,
+                "m_R": 0,
+                "m_G": 255,
+                "m_B": 0
+            },
+            "m_Positions": [
+                {
+                    "m_X": 13218.2998046875,
+                    "m_Y": 6.206789970397949,
+                    "m_Z": 9901.08984375,
+                    "m_R": 30.0
+                }
+            ],
+            "m_IsActive": 1,
+            "m_3DMarker": 1
+        },
+        {
+            "m_Name": "Heliporto",
+            "m_Icon": "shopping",
+            "m_Color": {
+                "m_A": 255,
+                "m_R": 0,
+                "m_G": 255,
+                "m_B": 0
+            },
+            "m_Positions": [
+                {
+                    "m_X": 5028.7900390625,
+                    "m_Y": 9.510168075561524,
+                    "m_Z": 2357.429931640625,
+                    "m_R": 100.0
+                }
+            ],
+            "m_IsActive": 1,
+            "m_3DMarker": 1
+        },
+        {
+            "m_Name": "Garagem",
+            "m_Icon": "car",
+            "m_Color": {
+                "m_A": 255,
+                "m_R": 0,
+                "m_G": 255,
+                "m_B": 0
+            },
+            "m_Positions": [
+                {
+                    "m_X": 6866.22998046875,
+                    "m_Y": 7.252270221710205,
+                    "m_Z": 3080.489990234375,
+                    "m_R": 100.0
+                }
+            ],
+            "m_IsActive": 1,
+            "m_3DMarker": 1
+        },
+        {
+            "m_Name": "Garagem",
+            "m_Icon": "car",
+            "m_Color": {
+                "m_A": 255,
+                "m_R": 0,
+                "m_G": 255,
+                "m_B": 0
+            },
+            "m_Positions": [
+                {
+                    "m_X": 2695.89990234375,
+                    "m_Y": 210.93299865722657,
+                    "m_Z": 5591.419921875,
+                    "m_R": 100.0
+                }
+            ],
+            "m_IsActive": 1,
+            "m_3DMarker": 1
+        },
+        {
+            "m_Name": "Garagem",
+            "m_Icon": "car",
+            "m_Color": {
+                "m_A": 255,
+                "m_R": 0,
+                "m_G": 255,
+                "m_B": 0
+            },
+            "m_Positions": [
+                {
+                    "m_X": 7481.08984375,
+                    "m_Y": 121.01899719238281,
+                    "m_Z": 12663.400390625,
+                    "m_R": 100.0
+                }
+            ],
+            "m_IsActive": 1,
+            "m_3DMarker": 1
+        }
+    ]
+}

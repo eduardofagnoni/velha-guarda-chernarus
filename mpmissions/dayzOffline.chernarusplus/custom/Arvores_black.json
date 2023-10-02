@@ -1,0 +1,3934 @@
+{
+    "Objects": [
+        {
+            "name": "bldr_plnt_t_FraxinusExcelsior_3s",
+            "pos": [
+                13864.9541015625,
+                43.55012512207031,
+                2907.78466796875
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_FraxinusExcelsior_3s",
+            "pos": [
+                13890.6162109375,
+                41.80372619628906,
+                2912.73095703125
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_FraxinusExcelsior_2s",
+            "pos": [
+                13872.884765625,
+                40.8489875793457,
+                2888.328125
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_PinusSylvestris_3d_summer",
+            "pos": [
+                13832.8974609375,
+                39.86437225341797,
+                2890.1953125
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_quercusRobur_3fb",
+            "pos": [
+                13836.6953125,
+                40.86714553833008,
+                2866.76513671875
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_quercusRobur_3fb",
+            "pos": [
+                13883.0595703125,
+                38.718414306640628,
+                2867.59814453125
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_quercusRobur_3fb",
+            "pos": [
+                13858.8916015625,
+                35.879005432128909,
+                2855.893798828125
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_quercusRobur_3fb",
+            "pos": [
+                13877.6513671875,
+                32.749855041503909,
+                2845.222900390625
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_robiniaPseudoacacia_2s",
+            "pos": [
+                13892.0537109375,
+                41.190101623535159,
+                2946.24462890625
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_robiniaPseudoacacia_2s",
+            "pos": [
+                13923.998046875,
+                39.449440002441409,
+                2939.22900390625
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_robiniaPseudoacacia_2s",
+            "pos": [
+                13929.373046875,
+                38.97454833984375,
+                2904.855224609375
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_FraxinusExcelsior_3s",
+            "pos": [
+                13912.9189453125,
+                41.38346481323242,
+                2921.87109375
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_quercusRobur_3f",
+            "pos": [
+                13872.125,
+                41.984375,
+                2929.22265625
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_quercusRobur_3f",
+            "pos": [
+                13854.48046875,
+                45.720455169677737,
+                2933.68896484375
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_quercusRobur_3f",
+            "pos": [
+                13876.32421875,
+                44.43733596801758,
+                2944.25146484375
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_robiniaPseudoacacia_2s",
+            "pos": [
+                13914.59765625,
+                37.40748596191406,
+                2964.01904296875
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_robiniaPseudoacacia_2s",
+            "pos": [
+                13953.822265625,
+                38.36590576171875,
+                2927.85986328125
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_robiniaPseudoacacia_2s",
+            "pos": [
+                13961.2685546875,
+                35.74855041503906,
+                2953.22705078125
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_robiniaPseudoacacia_2s",
+            "pos": [
+                13983.099609375,
+                34.56967544555664,
+                2937.67578125
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_robiniaPseudoacacia_2s",
+            "pos": [
+                13980.2333984375,
+                31.097431182861329,
+                2976.303466796875
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_robiniaPseudoacacia_2s",
+            "pos": [
+                13993.42578125,
+                31.081775665283204,
+                2957.158935546875
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_robiniaPseudoacacia_2s",
+            "pos": [
+                14007.6044921875,
+                31.829425811767579,
+                2926.19873046875
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_robiniaPseudoacacia_2s",
+            "pos": [
+                14025.6650390625,
+                29.26715850830078,
+                2945.875732421875
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_robiniaPseudoacacia_2s",
+            "pos": [
+                14025.2041015625,
+                25.04395294189453,
+                2975.9462890625
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_FagusSylvatica_2f_cut",
+            "pos": [
+                14014.25390625,
+                28.179697036743165,
+                2963.424072265625
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_robiniaPseudoacacia_2s",
+            "pos": [
+                13951.421875,
+                33.78007507324219,
+                2975.594482421875
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_FagusSylvatica_2f_cut",
+            "pos": [
+                13936.916015625,
+                33.619808197021487,
+                2956.39990234375
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_robiniaPseudoacacia_2s",
+            "pos": [
+                13932.0166015625,
+                34.94768524169922,
+                2971.448974609375
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_FagusSylvatica_2f_cut",
+            "pos": [
+                13904.8916015625,
+                39.48466110229492,
+                2895.964599609375
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_quercusRobur_3f",
+            "pos": [
+                13896.87109375,
+                42.889522552490237,
+                2931.109130859375
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_robiniaPseudoacacia_2s",
+            "pos": [
+                13891.5361328125,
+                37.37477111816406,
+                2982.562744140625
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_robiniaPseudoacacia_2s",
+            "pos": [
+                13879.5625,
+                39.887176513671878,
+                2964.088134765625
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_FagusSylvatica_2f_cut",
+            "pos": [
+                13938.931640625,
+                38.49766540527344,
+                2931.489501953125
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_LarixDecidua_3f_summer",
+            "pos": [
+                13902.2099609375,
+                32.15279769897461,
+                2837.412841796875
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_LarixDecidua_3f_summer",
+            "pos": [
+                13919.5185546875,
+                36.279911041259769,
+                2855.759765625
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_LarixDecidua_3f_summer",
+            "pos": [
+                13900.275390625,
+                37.39262771606445,
+                2863.158935546875
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_LarixDecidua_3f_summer",
+            "pos": [
+                13920.8671875,
+                31.063705444335939,
+                2835.044189453125
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_robiniaPseudoacacia_2s",
+            "pos": [
+                13897.705078125,
+                40.29853820800781,
+                2877.628173828125
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_FraxinusExcelsior_2s",
+            "pos": [
+                13869.5830078125,
+                39.50951385498047,
+                2867.5166015625
+            ],
+            "ypr": [
+                89.99995422363281,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_quercusRobur_3fb",
+            "pos": [
+                13821.1630859375,
+                44.87506103515625,
+                2888.252197265625
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_quercusRobur_3fb",
+            "pos": [
+                13809.6650390625,
+                51.96897506713867,
+                2920.767578125
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_quercusRobur_3fb",
+            "pos": [
+                13810.6171875,
+                51.8038215637207,
+                2939.882080078125
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_quercusRobur_3fb",
+            "pos": [
+                13790.6484375,
+                50.65037536621094,
+                2919.75341796875
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_quercusRobur_3fb",
+            "pos": [
+                13798.1484375,
+                52.71352767944336,
+                2934.353515625
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_quercusRobur_3fb",
+            "pos": [
+                13786.533203125,
+                52.680503845214847,
+                2938.91650390625
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_quercusRobur_3fb",
+            "pos": [
+                13772.056640625,
+                53.63222122192383,
+                2942.97119140625
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_quercusRobur_3fb",
+            "pos": [
+                13869.5927734375,
+                30.551027297973634,
+                2830.175048828125
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_quercusRobur_3fb",
+            "pos": [
+                13927.6845703125,
+                29.803131103515626,
+                2819.682861328125
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_quercusRobur_3fb",
+            "pos": [
+                13887.880859375,
+                28.264448165893556,
+                2816.46142578125
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_quercusRobur_3fb",
+            "pos": [
+                13957.25,
+                33.58234786987305,
+                2845.732666015625
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_quercusRobur_3fb",
+            "pos": [
+                13911.4404296875,
+                27.767065048217775,
+                2803.94189453125
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_quercusRobur_3fb",
+            "pos": [
+                13870.5966796875,
+                27.877399444580079,
+                2815.041748046875
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_robiniaPseudoacacia_2s",
+            "pos": [
+                13943.861328125,
+                25.103153228759767,
+                2798.954833984375
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_robiniaPseudoacacia_2s",
+            "pos": [
+                13972.8662109375,
+                29.89291000366211,
+                2819.13037109375
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_robiniaPseudoacacia_2s",
+            "pos": [
+                13947.3544921875,
+                30.82335662841797,
+                2834.716552734375
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_LarixDecidua_3f_summer",
+            "pos": [
+                13963.2548828125,
+                29.052230834960939,
+                2792.807373046875
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_robiniaPseudoacacia_2s",
+            "pos": [
+                13894.353515625,
+                25.198116302490236,
+                2790.66552734375
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_quercusRobur_3fb",
+            "pos": [
+                13943.1904296875,
+                22.87673568725586,
+                2777.514404296875
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_quercusRobur_3fb",
+            "pos": [
+                13918.4033203125,
+                22.939464569091798,
+                2778.540283203125
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_quercusRobur_3fb",
+            "pos": [
+                13923.0986328125,
+                26.141613006591798,
+                2796.2021484375
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_quercusRobur_3fb",
+            "pos": [
+                13970.181640625,
+                33.72747039794922,
+                2857.77978515625
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_quercusRobur_3fb",
+            "pos": [
+                13948.0390625,
+                35.0450439453125,
+                2863.6318359375
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_quercusRobur_3fb",
+            "pos": [
+                13938.4228515625,
+                37.40224075317383,
+                2880.86279296875
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_robiniaPseudoacacia_2s",
+            "pos": [
+                13972.0419921875,
+                30.86756134033203,
+                2868.451416015625
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_LarixDecidua_3f_summer",
+            "pos": [
+                13931.1337890625,
+                35.75895690917969,
+                2860.0205078125
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_LarixDecidua_3f_summer",
+            "pos": [
+                13932.533203125,
+                32.4593391418457,
+                2842.801025390625
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_FagusSylvatica_2f_cut",
+            "pos": [
+                13920.7294921875,
+                37.6148796081543,
+                2880.174072265625
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_quercusRobur_3fb",
+            "pos": [
+                13899.09375,
+                28.838577270507814,
+                2811.7451171875
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_robiniaPseudoacacia_2s",
+            "pos": [
+                13974.703125,
+                22.05803108215332,
+                2766.684814453125
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_FagusSylvatica_2d_summer",
+            "pos": [
+                13855.1435546875,
+                37.66569900512695,
+                2872.884033203125
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_FagusSylvatica_2f_summer",
+            "pos": [
+                13827.8427734375,
+                30.513635635375978,
+                2834.181640625
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_FagusSylvatica_1fc_summer",
+            "pos": [
+                13848.9912109375,
+                24.42774200439453,
+                2820.88818359375
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_BetulaPendulaE_2s_summer",
+            "pos": [
+                13851.8154296875,
+                18.009952545166017,
+                2807.82666015625
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_FagusSylvatica_2d_summer",
+            "pos": [
+                13832.908203125,
+                20.876361846923829,
+                2814.9541015625
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_FagusSylvatica_2d_summer",
+            "pos": [
+                13824.0791015625,
+                18.75055503845215,
+                2793.4697265625
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_FagusSylvatica_2d_summer",
+            "pos": [
+                13799.9697265625,
+                21.325124740600587,
+                2809.681884765625
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_FagusSylvatica_2f_summer",
+            "pos": [
+                13805.7236328125,
+                21.653350830078126,
+                2785.966552734375
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_BetulaPendulaE_3f_summer",
+            "pos": [
+                13813.6376953125,
+                27.154041290283204,
+                2824.99658203125
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_quercusRobur_3fb",
+            "pos": [
+                13803.080078125,
+                52.36897659301758,
+                2952.511962890625
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_quercusRobur_3fb",
+            "pos": [
+                13782.869140625,
+                54.011478424072269,
+                2958.546875
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_quercusRobur_3fb",
+            "pos": [
+                13775.865234375,
+                51.65281677246094,
+                2977.68310546875
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_quercusRobur_3fb",
+            "pos": [
+                13795.533203125,
+                48.43824005126953,
+                2984.99169921875
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_quercusRobur_3fb",
+            "pos": [
+                13721.2705078125,
+                53.6921272277832,
+                2917.9130859375
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_quercusRobur_3fb",
+            "pos": [
+                13752.2939453125,
+                52.42888259887695,
+                2927.453857421875
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_quercusRobur_3fb",
+            "pos": [
+                13732.0830078125,
+                54.07138442993164,
+                2933.48876953125
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_quercusRobur_3fb",
+            "pos": [
+                13759.8310546875,
+                51.86372756958008,
+                2914.823974609375
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_quercusRobur_3fb",
+            "pos": [
+                13735.7470703125,
+                52.74040985107422,
+                2913.8583984375
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_quercusRobur_3fb",
+            "pos": [
+                13724.5791015625,
+                45.70158004760742,
+                2884.108642578125
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_quercusRobur_3fb",
+            "pos": [
+                13735.3916015625,
+                46.08083724975586,
+                2899.684326171875
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_quercusRobur_3fb",
+            "pos": [
+                13739.0556640625,
+                44.74986267089844,
+                2880.053955078125
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_FraxinusExcelsior_3s",
+            "pos": [
+                13798.2470703125,
+                47.01509094238281,
+                2878.677001953125
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_FraxinusExcelsior_3s",
+            "pos": [
+                13822.8837890625,
+                44.24891662597656,
+                2851.941162109375
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_FraxinusExcelsior_3s",
+            "pos": [
+                13750.3154296875,
+                37.74652862548828,
+                2843.521484375
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_FraxinusExcelsior_3s",
+            "pos": [
+                13780.4755859375,
+                48.463134765625,
+                2897.654541015625
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_quercusRobur_3fb",
+            "pos": [
+                13764.5390625,
+                44.44941329956055,
+                2870.78955078125
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_robiniaPseudoacacia_2s",
+            "pos": [
+                13961.6416015625,
+                28.82561492919922,
+                3004.248291015625
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_FagusSylvatica_2f_cut",
+            "pos": [
+                14000.96875,
+                26.116498947143556,
+                2978.37646484375
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_robiniaPseudoacacia_2s",
+            "pos": [
+                13703.025390625,
+                54.70733642578125,
+                2944.360595703125
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_quercusRobur_3f",
+            "pos": [
+                13688.0498046875,
+                27.533945083618165,
+                2807.17529296875
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_robiniaPseudoacacia_2s",
+            "pos": [
+                13705.7763671875,
+                22.051908493041993,
+                2840.085205078125
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_FagusSylvatica_2f_cut",
+            "pos": [
+                13730.1103515625,
+                23.142087936401368,
+                2807.5556640625
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_robiniaPseudoacacia_2s",
+            "pos": [
+                13745.0009765625,
+                23.01032829284668,
+                2803.926025390625
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_robiniaPseudoacacia_2s",
+            "pos": [
+                13683.232421875,
+                25.834524154663087,
+                2822.310791015625
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_robiniaPseudoacacia_2s",
+            "pos": [
+                13715.1767578125,
+                24.093862533569337,
+                2815.295166015625
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_FagusSylvatica_2f_cut",
+            "pos": [
+                13728.0947265625,
+                18.264230728149415,
+                2832.466064453125
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_FraxinusExcelsior_3s",
+            "pos": [
+                13704.09765625,
+                26.02788734436035,
+                2797.937255859375
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_quercusRobur_3fb",
+            "pos": [
+                13694.9970703125,
+                44.498016357421878,
+                2869.776123046875
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_quercusRobur_3fb",
+            "pos": [
+                13720.23828125,
+                37.53460693359375,
+                2845.65234375
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_quercusRobur_3fb",
+            "pos": [
+                13629.1962890625,
+                50.230323791503909,
+                2853.36767578125
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_robiniaPseudoacacia_2s",
+            "pos": [
+                13692.056640625,
+                55.45100402832031,
+                2909.79345703125
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_robiniaPseudoacacia_2s",
+            "pos": [
+                13660.736328125,
+                55.11955261230469,
+                2907.22021484375
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_quercusRobur_3fb",
+            "pos": [
+                13678.966796875,
+                54.42601013183594,
+                2893.950439453125
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_quercusRobur_3fb",
+            "pos": [
+                13701.8818359375,
+                46.65736389160156,
+                2881.333740234375
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_robiniaPseudoacacia_2s",
+            "pos": [
+                13674.431640625,
+                53.25157928466797,
+                2955.005615234375
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_robiniaPseudoacacia_2s",
+            "pos": [
+                13681.7119140625,
+                54.60105895996094,
+                2989.576171875
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_robiniaPseudoacacia_2s",
+            "pos": [
+                13610.849609375,
+                51.53861999511719,
+                2910.200927734375
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_robiniaPseudoacacia_2s",
+            "pos": [
+                13626.9189453125,
+                53.298927307128909,
+                2971.988037109375
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_robiniaPseudoacacia_2s",
+            "pos": [
+                13674.4775390625,
+                53.057159423828128,
+                3018.92431640625
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_robiniaPseudoacacia_2s",
+            "pos": [
+                13633.1103515625,
+                49.81324005126953,
+                3016.080810546875
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_quercusRobur_3fb",
+            "pos": [
+                13653.0615234375,
+                54.270103454589847,
+                2985.829345703125
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_FraxinusExcelsior_3s",
+            "pos": [
+                13851.716796875,
+                40.830326080322269,
+                2893.679443359375
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_prop_MaleGuoHead",
+            "pos": [
+                13859.8916015625,
+                30.49997901916504,
+                2881.20703125
+            ],
+            "ypr": [
+                -9.000066757202149,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Cemetery_Grave3",
+            "pos": [
+                13815.291015625,
+                33.73942184448242,
+                2859.15234375
+            ],
+            "ypr": [
+                35.9999885559082,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Cemetery_Grave3",
+            "pos": [
+                13814.33203125,
+                33.96733474731445,
+                2860.391357421875
+            ],
+            "ypr": [
+                35.99998092651367,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Cemetery_Tombstone3",
+            "pos": [
+                13814.7822265625,
+                34.505367279052737,
+                2858.388916015625
+            ],
+            "ypr": [
+                35.9999885559082,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Cemetery_Tombstone3",
+            "pos": [
+                13813.7783203125,
+                34.615474700927737,
+                2859.622802734375
+            ],
+            "ypr": [
+                35.99998092651367,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Hanged_civil",
+            "pos": [
+                13868.40234375,
+                33.62724304199219,
+                2868.6982421875
+            ],
+            "ypr": [
+                90.00000762939453,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Dead_pile1",
+            "pos": [
+                13849.5927734375,
+                30.518497467041017,
+                2882.66455078125
+            ],
+            "ypr": [
+                35.9999885559082,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_acer_2s_summer",
+            "pos": [
+                13671.5146484375,
+                42.32430648803711,
+                2853.393798828125
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_robiniaPseudoacacia_2s",
+            "pos": [
+                14015.0732421875,
+                28.17564582824707,
+                2809.092529296875
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_robiniaPseudoacacia_2s",
+            "pos": [
+                14052.3876953125,
+                28.963563919067384,
+                2800.09521484375
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_robiniaPseudoacacia_2s",
+            "pos": [
+                14026.9384765625,
+                26.703819274902345,
+                2782.0595703125
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_robiniaPseudoacacia_2s",
+            "pos": [
+                14054.271484375,
+                27.036762237548829,
+                2772.1435546875
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_robiniaPseudoacacia_2s",
+            "pos": [
+                14047.6591796875,
+                25.065471649169923,
+                2750.406982421875
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_robiniaPseudoacacia_2s",
+            "pos": [
+                14077.1748046875,
+                28.78303337097168,
+                2760.736572265625
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_robiniaPseudoacacia_2s",
+            "pos": [
+                13618.8330078125,
+                51.02220916748047,
+                3037.62744140625
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_robiniaPseudoacacia_2s",
+            "pos": [
+                13576.8515625,
+                43.75019836425781,
+                3019.746826171875
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_quercusRobur_3fb",
+            "pos": [
+                13648.994140625,
+                46.95684814453125,
+                2847.501220703125
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_robiniaPseudoacacia_2s",
+            "pos": [
+                13617.6826171875,
+                46.23567199707031,
+                2872.3681640625
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_robiniaPseudoacacia_2s",
+            "pos": [
+                13636.53125,
+                51.86296844482422,
+                2890.575927734375
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_robiniaPseudoacacia_2s",
+            "pos": [
+                13586.3671875,
+                49.19305419921875,
+                2892.32373046875
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_robiniaPseudoacacia_2s",
+            "pos": [
+                13599.57421875,
+                42.24092102050781,
+                2844.2548828125
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_robiniaPseudoacacia_2s",
+            "pos": [
+                13626.1044921875,
+                32.61138153076172,
+                2812.460693359375
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_robiniaPseudoacacia_2s",
+            "pos": [
+                13637.576171875,
+                52.332008361816409,
+                2939.608642578125
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_robiniaPseudoacacia_2s",
+            "pos": [
+                13601.5361328125,
+                51.33567810058594,
+                2974.628662109375
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_robiniaPseudoacacia_2s",
+            "pos": [
+                13602.66796875,
+                50.21284484863281,
+                3009.511474609375
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_robiniaPseudoacacia_2s",
+            "pos": [
+                13652.931640625,
+                53.15741729736328,
+                2966.24169921875
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_robiniaPseudoacacia_2s",
+            "pos": [
+                13607.3037109375,
+                50.87865447998047,
+                3061.235595703125
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_robiniaPseudoacacia_2s",
+            "pos": [
+                13592.2841796875,
+                46.8883056640625,
+                3047.162109375
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_robiniaPseudoacacia_2s",
+            "pos": [
+                13591.6201171875,
+                32.48535919189453,
+                2816.342041015625
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_robiniaPseudoacacia_2s",
+            "pos": [
+                13562.2509765625,
+                47.76000213623047,
+                2908.1630859375
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_robiniaPseudoacacia_2s",
+            "pos": [
+                13559.609375,
+                42.050201416015628,
+                2889.257568359375
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_robiniaPseudoacacia_2s",
+            "pos": [
+                13574.6728515625,
+                35.88426208496094,
+                2857.98193359375
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_robiniaPseudoacacia_2s",
+            "pos": [
+                13727.6015625,
+                57.29810333251953,
+                2956.29052734375
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_robiniaPseudoacacia_2s",
+            "pos": [
+                13753.1552734375,
+                54.25141143798828,
+                2943.530517578125
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_quercusRobur_3fb",
+            "pos": [
+                13739.111328125,
+                57.415260314941409,
+                2962.453369140625
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_robiniaPseudoacacia_2s",
+            "pos": [
+                13658.2294921875,
+                52.830039978027347,
+                3000.670654296875
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_robiniaPseudoacacia_2s",
+            "pos": [
+                13694.6123046875,
+                51.97093963623047,
+                3006.52734375
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_robiniaPseudoacacia_2s",
+            "pos": [
+                13723.56640625,
+                52.80896759033203,
+                2990.260009765625
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_quercusRobur_3fb",
+            "pos": [
+                13711.5771484375,
+                51.637123107910159,
+                2901.375244140625
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_robiniaPseudoacacia_2s",
+            "pos": [
+                13578.640625,
+                46.75385284423828,
+                3083.384033203125
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_robiniaPseudoacacia_2s",
+            "pos": [
+                13564.53125,
+                42.860130310058597,
+                3050.133056640625
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_quercusRobur_3fb",
+            "pos": [
+                13583.580078125,
+                48.00213623046875,
+                3066.677734375
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_quercusRobur_3fb",
+            "pos": [
+                13541.9423828125,
+                39.84437561035156,
+                3059.44921875
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_quercusRobur_3fb",
+            "pos": [
+                13551.8505859375,
+                40.762855529785159,
+                3030.6201171875
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_quercusRobur_3fb",
+            "pos": [
+                13535.3134765625,
+                38.86132049560547,
+                3042.17333984375
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_quercusRobur_3fb",
+            "pos": [
+                13541.7919921875,
+                37.041038513183597,
+                3002.311767578125
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_quercusRobur_3fb",
+            "pos": [
+                13555.8701171875,
+                39.232418060302737,
+                2990.637939453125
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_quercusRobur_3fb",
+            "pos": [
+                13525.681640625,
+                35.464378356933597,
+                3020.640380859375
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_quercusRobur_3fb",
+            "pos": [
+                13540.578125,
+                38.80320739746094,
+                3022.582275390625
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_robiniaPseudoacacia_2s",
+            "pos": [
+                13585.91015625,
+                48.915855407714847,
+                2982.7919921875
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_robiniaPseudoacacia_2s",
+            "pos": [
+                13568.337890625,
+                51.16065979003906,
+                2935.6875
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_robiniaPseudoacacia_2s",
+            "pos": [
+                13549.04296875,
+                47.520225524902347,
+                2929.854736328125
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_quercusRobur_3fb",
+            "pos": [
+                13542.1796875,
+                46.02656555175781,
+                2907.75927734375
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_quercusRobur_3fb",
+            "pos": [
+                13534.6318359375,
+                45.341068267822269,
+                2918.548583984375
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_quercusRobur_3fb",
+            "pos": [
+                13539.642578125,
+                41.92940139770508,
+                2894.81298828125
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_quercusRobur_3fb",
+            "pos": [
+                13547.7138671875,
+                30.600475311279298,
+                2873.819091796875
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_quercusRobur_3fb",
+            "pos": [
+                13553.224609375,
+                33.908790588378909,
+                2846.442626953125
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_quercusRobur_3fb",
+            "pos": [
+                13621.9384765625,
+                42.684818267822269,
+                2835.856689453125
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_quercusRobur_3fb",
+            "pos": [
+                13576.291015625,
+                37.48017501831055,
+                2837.85107421875
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_quercusRobur_3fb",
+            "pos": [
+                13522.765625,
+                25.780065536499025,
+                2877.37939453125
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_quercusRobur_3fb",
+            "pos": [
+                13538.7294921875,
+                30.59006690979004,
+                2858.547607421875
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_quercusRobur_3fb",
+            "pos": [
+                13533.5615234375,
+                25.603879928588868,
+                2838.824951171875
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_robiniaPseudoacacia_2s",
+            "pos": [
+                13633.6865234375,
+                24.587671279907228,
+                2784.1171875
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_quercusRobur_3fb",
+            "pos": [
+                13603.4755859375,
+                27.150463104248048,
+                2802.324462890625
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_robiniaPseudoacacia_2s",
+            "pos": [
+                13554.5205078125,
+                41.60115051269531,
+                3079.431396484375
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_quercusRobur_3fb",
+            "pos": [
+                13534.4697265625,
+                41.256187438964847,
+                3073.25244140625
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_quercusRobur_3fb",
+            "pos": [
+                13519.533203125,
+                39.899757385253909,
+                3053.494384765625
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_quercusRobur_3fb",
+            "pos": [
+                13593.5341796875,
+                54.220272064208987,
+                2943.49951171875
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_quercusRobur_3fb",
+            "pos": [
+                13610.9560546875,
+                55.7470588684082,
+                2954.531005859375
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_quercusRobur_3fb",
+            "pos": [
+                13586.3154296875,
+                53.99689483642578,
+                2920.653564453125
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_quercusRobur_3fb",
+            "pos": [
+                13618.5263671875,
+                54.97709655761719,
+                2931.935302734375
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_robiniaPseudoacacia_2s",
+            "pos": [
+                13646.6435546875,
+                49.01630401611328,
+                3072.803466796875
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_quercusRobur_3fb",
+            "pos": [
+                13650.5263671875,
+                53.86603546142578,
+                3039.61376953125
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_quercusRobur_3fb",
+            "pos": [
+                13641.322265625,
+                53.318016052246097,
+                3051.32861328125
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_robiniaPseudoacacia_2s",
+            "pos": [
+                13626.5751953125,
+                45.64532470703125,
+                3104.219970703125
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_robiniaPseudoacacia_2s",
+            "pos": [
+                13657.501953125,
+                44.565704345703128,
+                3096.00927734375
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_robiniaPseudoacacia_2s",
+            "pos": [
+                13648.1142578125,
+                41.47914123535156,
+                3113.138916015625
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_robiniaPseudoacacia_2s",
+            "pos": [
+                13604.5107421875,
+                47.51521301269531,
+                3128.88330078125
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_robiniaPseudoacacia_2s",
+            "pos": [
+                13629.1455078125,
+                40.49291229248047,
+                3130.647705078125
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_robiniaPseudoacacia_2s",
+            "pos": [
+                13582.775390625,
+                49.19837951660156,
+                3146.822265625
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_robiniaPseudoacacia_2s",
+            "pos": [
+                13619.5458984375,
+                39.26239776611328,
+                3155.26806640625
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_robiniaPseudoacacia_2s",
+            "pos": [
+                13597.767578125,
+                42.779762268066409,
+                3169.261474609375
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_quercusRobur_3fb",
+            "pos": [
+                13562.60546875,
+                51.21137237548828,
+                3167.59326171875
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_quercusRobur_3fb",
+            "pos": [
+                13566.9443359375,
+                48.644004821777347,
+                3184.458740234375
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_quercusRobur_3fb",
+            "pos": [
+                13546.810546875,
+                52.40215301513672,
+                3176.810546875
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_quercusRobur_3fb",
+            "pos": [
+                13542.3115234375,
+                51.440635681152347,
+                3152.497802734375
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_quercusRobur_3fb",
+            "pos": [
+                13561.9404296875,
+                52.09370422363281,
+                3139.33740234375
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_quercusRobur_3fb",
+            "pos": [
+                13597.4609375,
+                52.30990219116211,
+                3084.755615234375
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_quercusRobur_3fb",
+            "pos": [
+                13586.64453125,
+                52.054813385009769,
+                3106.31396484375
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_quercusRobur_3fb",
+            "pos": [
+                13675.88671875,
+                57.11951446533203,
+                2931.860107421875
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_quercusRobur_3fb",
+            "pos": [
+                13668.9150390625,
+                52.48973846435547,
+                2871.707763671875
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_quercusRobur_3fb",
+            "pos": [
+                13661.908203125,
+                54.53894805908203,
+                2889.235595703125
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_robiniaPseudoacacia_2s",
+            "pos": [
+                13801.87109375,
+                22.711124420166017,
+                2777.8076171875
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_robiniaPseudoacacia_2s",
+            "pos": [
+                13775.375,
+                21.463558197021486,
+                2759.123046875
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_quercusRobur_3fb",
+            "pos": [
+                13813.44140625,
+                25.836090087890626,
+                2799.38232421875
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_quercusRobur_3fb",
+            "pos": [
+                13773.53515625,
+                32.62641143798828,
+                2815.904541015625
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_quercusRobur_3fb",
+            "pos": [
+                13837.3310546875,
+                25.66204071044922,
+                2822.248779296875
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_quercusRobur_3fb",
+            "pos": [
+                13866.701171875,
+                26.560989379882814,
+                2794.4443359375
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_quercusRobur_3fb",
+            "pos": [
+                13799.0302734375,
+                44.955528259277347,
+                2843.292236328125
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_FraxinusExcelsior_3s",
+            "pos": [
+                13683.2421875,
+                27.173873901367189,
+                2766.5712890625
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_FraxinusExcelsior_3s",
+            "pos": [
+                13717.58203125,
+                23.587608337402345,
+                2759.666748046875
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_FraxinusExcelsior_3s",
+            "pos": [
+                13638.5927734375,
+                22.444610595703126,
+                2753.90185546875
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_FraxinusExcelsior_3s",
+            "pos": [
+                13590.5341796875,
+                15.37684440612793,
+                2772.1494140625
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_quercusRobur_3fb",
+            "pos": [
+                13664.240234375,
+                36.29754638671875,
+                2832.797607421875
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_quercusRobur_3fb",
+            "pos": [
+                13795.5390625,
+                25.430400848388673,
+                3044.0029296875
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_quercusRobur_3fb",
+            "pos": [
+                13819.5205078125,
+                23.448623657226564,
+                3043.50732421875
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_quercusRobur_3fb",
+            "pos": [
+                13840.4677734375,
+                17.771549224853517,
+                3057.58935546875
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_quercusRobur_3fb",
+            "pos": [
+                13814.5166015625,
+                18.821285247802736,
+                3053.54541015625
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_quercusRobur_3fb",
+            "pos": [
+                13796.7353515625,
+                19.625179290771486,
+                3058.66650390625
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_quercusRobur_3fb",
+            "pos": [
+                13826.1005859375,
+                14.819507598876954,
+                3067.907958984375
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_quercusRobur_3fb",
+            "pos": [
+                13851.0556640625,
+                15.668804168701172,
+                3069.27001953125
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_quercusRobur_3fb",
+            "pos": [
+                13863.076171875,
+                15.020187377929688,
+                3071.72314453125
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_robiniaPseudoacacia_2s",
+            "pos": [
+                13649.486328125,
+                33.139739990234378,
+                3164.23291015625
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_robiniaPseudoacacia_2s",
+            "pos": [
+                13616.9013671875,
+                37.91413879394531,
+                3186.6728515625
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_robiniaPseudoacacia_2s",
+            "pos": [
+                13589.2216796875,
+                44.360076904296878,
+                3201.645263671875
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_quercusRobur_3fb",
+            "pos": [
+                13570.0126953125,
+                50.66636276245117,
+                3207.37939453125
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_robiniaPseudoacacia_2s",
+            "pos": [
+                13552.98828125,
+                55.293601989746097,
+                3216.18212890625
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_robiniaPseudoacacia_2s",
+            "pos": [
+                13576.1513671875,
+                53.267799377441409,
+                3234.017822265625
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_robiniaPseudoacacia_2s",
+            "pos": [
+                13601.4716796875,
+                43.54100799560547,
+                3224.709228515625
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_robiniaPseudoacacia_2s",
+            "pos": [
+                13621.1708984375,
+                38.405517578125,
+                3237.7275390625
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_robiniaPseudoacacia_2s",
+            "pos": [
+                13673.111328125,
+                30.79811668395996,
+                3198.684814453125
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_robiniaPseudoacacia_2s",
+            "pos": [
+                13688.166015625,
+                27.809276580810548,
+                3156.48046875
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_robiniaPseudoacacia_2s",
+            "pos": [
+                13649.109375,
+                31.333581924438478,
+                3260.915771484375
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_robiniaPseudoacacia_2s",
+            "pos": [
+                13699.6962890625,
+                22.647031784057618,
+                3183.456787109375
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_quercusRobur_3fb",
+            "pos": [
+                13502.236328125,
+                28.61040496826172,
+                3033.266845703125
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_quercusRobur_3fb",
+            "pos": [
+                13495.1162109375,
+                30.090620040893556,
+                3060.3349609375
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_quercusRobur_3fb",
+            "pos": [
+                13499.599609375,
+                25.000932693481447,
+                2996.44384765625
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_quercusRobur_3fb",
+            "pos": [
+                13515.0439453125,
+                30.689632415771486,
+                3007.5390625
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_quercusRobur_3fb",
+            "pos": [
+                13482.6708984375,
+                21.91027069091797,
+                3044.0791015625
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_quercusRobur_3fb",
+            "pos": [
+                13478.9111328125,
+                17.727840423583986,
+                3023.478759765625
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_quercusRobur_3fb",
+            "pos": [
+                13462.08203125,
+                20.297245025634767,
+                3058.241455078125
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_quercusRobur_3fb",
+            "pos": [
+                13463.9072265625,
+                15.869319915771485,
+                2998.120361328125
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_quercusRobur_3fb",
+            "pos": [
+                13449.05078125,
+                15.483360290527344,
+                3030.591796875
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_quercusRobur_3fb",
+            "pos": [
+                13440.4462890625,
+                19.692407608032228,
+                3068.69921875
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_quercusRobur_3fb",
+            "pos": [
+                13427.84375,
+                15.168136596679688,
+                3046.92626953125
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_robiniaPseudoacacia_2s",
+            "pos": [
+                13808.212890625,
+                13.080278396606446,
+                2760.264404296875
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Dead_pile3",
+            "pos": [
+                13862.421875,
+                30.268402099609376,
+                2877.626953125
+            ],
+            "ypr": [
+                -9.0,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Dead_pile4",
+            "pos": [
+                13868.208984375,
+                29.57221031188965,
+                2868.7080078125
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_robiniaPseudoacacia_2s",
+            "pos": [
+                14101.2568359375,
+                22.413145065307618,
+                2929.349853515625
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_robiniaPseudoacacia_2s",
+            "pos": [
+                14118.7607421875,
+                15.77488899230957,
+                2960.0947265625
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_plnt_t_robiniaPseudoacacia_2s",
+            "pos": [
+                14131.9150390625,
+                12.328027725219727,
+                2918.539794921875
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        }
+    ]
+}

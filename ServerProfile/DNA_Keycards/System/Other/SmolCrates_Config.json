@@ -1,0 +1,63 @@
+{
+    "dna_Description": "Config for spawning and respawning smol crates. In order to use this to spawn smol crates, set dna_SpawnSmolCrates to true, and add your",
+    "dna_DescriptionCont": "locations, and orientations along with the desired tier. To use timer settings, the timer must be activated in ResetTimer_Config.json.",
+    "dna_CrateSpawns": [
+        {
+            "dna_Tier": "Yellow",
+            "dna_Location": "13249.240234 4.267279 9916.133789",
+            "dna_Rotation": "0.0 0.0 0.0"
+        },
+        {
+            "dna_Tier": "Yellow",
+            "dna_Location": "13250.287109 4.252128 9918.099609",
+            "dna_Rotation": "0.0 0.0 0.0"
+        },
+        {
+            "dna_Tier": "Green",
+            "dna_Location": "13237.934570 6.302600 9920.687500",
+            "dna_Rotation": "0.0 0.0 0.0"
+        },
+        {
+            "dna_Tier": "Green",
+            "dna_Location": "13237.559570 6.460884 9922.253906",
+            "dna_Rotation": "0.0 0.0 0.0"
+        },
+        {
+            "dna_Tier": "Blue",
+            "dna_Location": "13241.906250 5.385430 9917.638672",
+            "dna_Rotation": "0.0 0.0 0.0"
+        },
+        {
+            "dna_Tier": "Blue",
+            "dna_Location": "13243.631836 5.118579 9919.941406",
+            "dna_Rotation": "0.0 0.0 0.0"
+        },
+        {
+            "dna_Tier": "Purple",
+            "dna_Location": "13245.394531 4.683599 9916.873047",
+            "dna_Rotation": "0.0 0.0 0.0"
+        },
+        {
+            "dna_Tier": "Purple",
+            "dna_Location": "13246.942383 4.592819 9918.708008",
+            "dna_Rotation": "0.0 0.0 0.0"
+        },
+        {
+            "dna_Tier": "Red",
+            "dna_Location": "13238.091797 6.161747 9918.354492",
+            "dna_Rotation": "0.0 0.0 0.0"
+        },
+        {
+            "dna_Tier": "Red",
+            "dna_Location": "13237.553711 6.181170 9916.892578",
+            "dna_Rotation": "0.0 0.0 0.0"
+        }
+    ],
+    "dna_SpawnSmolCrates": false,
+    "dna_ResetSmolCrates": 0,
+    "dna_TimeUntilYellowSmolCrateResets": 1,
+    "dna_TimeUntilGreenSmolCrateResets": 1,
+    "dna_TimeUntilBlueSmolCrateResets": 1,
+    "dna_TimeUntilPurpleSmolCrateResets": 1,
+    "dna_TimeUntilRedSmolCrateResets": 1
+}

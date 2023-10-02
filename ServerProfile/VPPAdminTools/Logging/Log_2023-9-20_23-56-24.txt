@@ -1,0 +1,146 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2023-9-20_23-56-24
+====================================================================================
+23:56:24 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+23:56:24 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+23:56:24 | [PermissionManager] Perm (FreeCamera) has been registered!
+23:56:24 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+23:56:24 | [PermissionManager] Perm (MenuItemManager) has been registered!
+23:56:24 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+23:56:24 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+23:56:24 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+23:56:24 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+23:56:24 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+23:56:24 | [PermissionManager] Perm (MenuServerManager) has been registered!
+23:56:24 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+23:56:24 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+23:56:24 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+23:56:24 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+23:56:24 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+23:56:24 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+23:56:24 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+23:56:24 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+23:56:24 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+23:56:24 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+23:56:24 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+23:56:24 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+23:56:24 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+23:56:24 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+23:56:24 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+23:56:24 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+23:56:24 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+23:56:24 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+23:56:24 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+23:56:24 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+23:56:24 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+23:56:24 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+23:56:24 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+23:56:24 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+23:56:24 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+23:56:24 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+23:56:24 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+23:56:24 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+23:56:24 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+23:56:24 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+23:56:24 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+23:56:24 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+23:56:24 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+23:56:24 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+23:56:24 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+23:56:24 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+23:56:24 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+23:56:24 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+23:56:24 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+23:56:24 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+23:56:24 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+23:56:24 | [PermissionManager] Perm (MenuBansManager) has been registered!
+23:56:24 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+23:56:24 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+23:56:24 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+23:56:24 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+23:56:24 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+23:56:24 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+23:56:24 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+23:56:24 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+23:56:24 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+23:56:24 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+23:56:24 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+23:56:24 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+23:56:24 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+23:56:24 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+23:56:24 | [PermissionManager] Perm (TeleportManager:TeleportEntity) has been registered!
+23:56:24 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+23:56:24 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+23:56:24 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+23:56:24 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+23:56:24 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+23:56:24 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+23:56:24 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+23:56:24 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+23:56:24 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+23:56:24 | [PermissionManager] Adding Super Admin (76561198363861269)
+23:56:24 | [PermissionManager] Adding Super Admin (76561199350150099)
+23:56:24 | [PermissionManager] Loaded UserGroups.json
+23:56:24 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+23:56:24 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+23:56:24 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+23:56:24 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+23:56:24 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+23:56:24 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+23:56:24 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+23:56:24 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+23:56:24 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+23:56:24 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+23:56:24 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+23:56:24 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+23:56:24 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+23:56:24 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+23:56:24 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+23:56:24 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+23:56:24 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+23:56:24 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+23:56:24 | Building Sets Loaded: 2
+23:56:25 | [SteamAPIManager] WARNING couldn't fetch server IP from configs; using cURL...
+23:56:25 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+0:20:59 | Player "Anubis" (steamId=76561198363861269) connected to server!
+0:22:12 | "Anubis" (steamid=76561198363861269) toggled freecam
+0:22:33 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<4998.329102, 8.864914, 2382.622314>)
+0:22:46 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<5045.097168, 9.349911, 2397.039795>)
+0:22:47 | "Anubis" (steamid=76561198363861269) toggled freecam
+0:23:3 | "Anubis" (steamid=76561198363861269) Spawned Item: (DNA_KeyCard_Blue)
+0:26:6 | "Anubis" (steamid=76561198363861269) toggled freecam
+0:26:8 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<5019.254395, 10.281609, 2404.875244>)
+0:26:9 | "Anubis" (steamid=76561198363861269) toggled freecam
+0:26:26 | "Anubis" (steamid=76561198363861269) Spawned Item: (DNA_KeyCard_Blue)
+0:28:49 | "Anubis" (steamid=76561198363861269) toggled freecam
+0:28:52 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<5019.798828, 10.281609, 2403.334229>)
+0:28:53 | "Anubis" (steamid=76561198363861269) toggled freecam
+0:30:41 | "Anubis" (steamid=76561198363861269) Spawned Item: (DNA_KeyCard_Blue)
+0:30:44 | "Anubis" (steamid=76561198363861269) Spawned Item: (DNA_KeyCard_Blue)
+0:30:44 | "Anubis" (steamid=76561198363861269) Spawned Item: (DNA_KeyCard_Blue)
+0:31:48 | "Anubis" (steamid=76561198363861269) Spawned Item: (DNA_KeyCard_Blue)
+0:31:48 | "Anubis" (steamid=76561198363861269) Spawned Item: (DNA_KeyCard_Blue)
+0:31:49 | "Anubis" (steamid=76561198363861269) Spawned Item: (DNA_KeyCard_Blue)
+0:36:8 | "Anubis" (steamid=76561198363861269) toggled freecam
+0:36:31 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<4498.708008, 9.172348, 2543.605469>)
+0:36:46 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<3578.856934, 7.861343, 2488.339111>)
+0:37:20 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<1907.922974, 6.063751, 2228.535889>)
+0:37:38 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<1136.495850, 5.896954, 2405.315186>)
+0:37:50 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<750.574158, 6.128464, 1865.780273>)
+0:38:6 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<228.903534, 105.910126, 2415.097168>)
+0:38:9 | "Anubis" (steamid=76561198363861269) toggled freecam
+0:38:11 | "Anubis" (steamid=76561198363861269) toggled freecam
+0:39:3 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<1258.231689, 137.265320, 4102.975586>)
+0:39:18 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<1631.260986, 143.291534, 3925.619873>)
+0:39:35 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<2455.428467, 191.186890, 5084.445801>)
+0:39:57 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<2640.007324, 202.095093, 5297.901367>)
+0:40:15 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<2266.247559, 185.315033, 5258.749023>)
+0:40:16 | "Anubis" (steamid=76561198363861269) toggled freecam
+0:41:8 | "Anubis" (steamid=76561198363861269) Spawned Item: (DNA_KeyCard_Purple)
+0:45:42 | "Anubis" (steamid=76561198363861269) Spawned Item: (DNA_KeyCard_Purple)
+0:48:32 | "Anubis" (steamid=76561198363861269) toggled freecam
+0:48:36 | "Anubis" (steamid=76561198363861269) teleported to crosshair (pos=<2258.000977, 186.055450, 5267.599609>)
+0:48:37 | "Anubis" (steamid=76561198363861269) toggled freecam
+0:48:46 | Player "Anubis" (steamId=76561198363861269) initiated disconnect process...
+0:48:50 | Player "Anubis" (steamId=76561198363861269) disconnected early from server (EXIT NOW).
+0:48:51 | Player "Anubis" (steamId=76561198363861269) disconnected from server.

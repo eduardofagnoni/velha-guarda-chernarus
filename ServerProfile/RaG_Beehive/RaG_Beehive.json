@@ -1,0 +1,6 @@
+{
+    "GetFillFrameTime": 3600000,
+    "GetSmokedStateTime": 300000,
+    "GetChanceForBeesToStay": 50,
+    "GetChanceToFarmBeeTrap": 10
+}

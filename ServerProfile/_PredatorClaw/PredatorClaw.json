@@ -1,0 +1,139 @@
+{
+    "ActiveReward": 1,
+    "PorcentageDrop": 10,
+    "Reward": [
+        {
+            "Name": "Reward1",
+            "Container": "PredatorClaw_Storage",
+            "Items": [
+                {
+                    "Item": "M4A1",
+                    "Quantity": 1,
+                    "ItemAttachments": [
+                        "M4_RISHndgrd",
+                        "M4_OEBttstck",
+                        "M68Optic"
+                    ]
+                },
+                {
+                    "Item": "PlateCarrierVest",
+                    "Quantity": 1,
+                    "ItemAttachments": [
+                        "PlateCarrierHolster"
+                    ]
+                },
+                {
+                    "Item": "Mag_STANAGCoupled_30Rnd",
+                    "Quantity": 1,
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "SalineBag",
+                    "Quantity": 1,
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "BloodTestKit",
+                    "Quantity": 1,
+                    "ItemAttachments": []
+                }
+            ]
+        },
+        {
+            "Name": "Reward2",
+            "Container": "PredatorClaw_Storage",
+            "Items": [
+                {
+                    "Item": "GCGN_M82_Barret",
+                    "Quantity": 1,
+                    "ItemAttachments": [
+                        "GCGN_M82_Mag"
+                    ]
+                },
+                {
+                    "Item": "GCGN_M82_Barret",
+                    "Quantity": 1,
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "SalineBag",
+                    "Quantity": 1,
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "SalineBag",
+                    "Quantity": 1,
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "BloodTestKit",
+                    "Quantity": 1,
+                    "ItemAttachments": []
+                }
+            ]
+        },
+        {
+            "Name": "Reward3",
+            "Container": "PredatorClaw_Storage",
+            "Items": [                
+                {
+                    "Item": "DNA_KeyCard_Error",
+                    "Quantity": 1,
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "DNA_KeyCard_BlisterPackChip_Red",
+                    "Quantity": 1,
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "Hammer",
+                    "Quantity": 1,
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "Screwdriver",
+                    "Quantity": 1,
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "DNA_Solder_Kit",
+                    "Quantity": 1,
+                    "ItemAttachments": []
+                }
+            ]
+        },
+        {
+            "Name": "Reward4",
+            "Container": "PredatorClaw_Storage",
+            "Items": [                
+                {
+                    "Item": "DNA_KeyCard_Error",
+                    "Quantity": 1,
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "DNA_HelpingHands_Kit",
+                    "Quantity": 1,
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "Hammer",
+                    "Quantity": 1,
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "Screwdriver",
+                    "Quantity": 1,
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "DNA_Flux",
+                    "Quantity": 1,
+                    "ItemAttachments": []
+                }
+            ]
+        }
+
+    ]
+}

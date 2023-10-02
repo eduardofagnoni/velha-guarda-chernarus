@@ -1,0 +1,16 @@
+[
+    {
+        "Type": 0,
+        "Name": "Area do traficante",
+        "X": 5772.435059,
+        "Z": 4391.486328,
+        "Radius": 150,
+        "ShowBorderOnMap": 1,
+        "ShowNameOnMap": 0,
+        "Activity_Schedule": {
+            "Days" :"1 2 3 4 5 6 7",
+            "StartHour": 18,
+            "EndHour": 24
+        }
+    }
+]

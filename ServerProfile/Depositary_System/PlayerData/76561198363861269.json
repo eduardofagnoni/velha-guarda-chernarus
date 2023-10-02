@@ -1,0 +1,354 @@
+{
+    "m_SteamID": "76561198363861269",
+    "m_PlayerName": "[ADM] Fagnoni",
+    "vehicleData": [
+        {
+            "indexID": 0,
+            "VehiclesHash": 0,
+            "GarageID": -1,
+            "EngineHealth": 0.8545379638671875,
+            "FuelAmmount": 49.99430847167969,
+            "VehiclesName": "Jeep_Wrangler",
+            "SpawnPos": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "SpawnOri": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "m_Cargo": [
+                {
+                    "ItemName": "Jeep_Wrangler_Doors_Driver",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 500.0
+                },
+                {
+                    "ItemName": "Jeep_Wrangler_Doors_coDriver",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 500.0
+                },
+                {
+                    "ItemName": "Jeep_Wrangler_Doors_hood",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 500.0
+                },
+                {
+                    "ItemName": "Jeep_Wrangler_Doors_trunk",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 500.0
+                },
+                {
+                    "ItemName": "Jeep_Wrangler_Wheel",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 200.0
+                },
+                {
+                    "ItemName": "Jeep_Wrangler_Wheel",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 200.0
+                },
+                {
+                    "ItemName": "Jeep_Wrangler_Wheel",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 200.0
+                },
+                {
+                    "ItemName": "Jeep_Wrangler_Wheel",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 200.0
+                },
+                {
+                    "ItemName": "Jeep_Wrangler_Wheel",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 200.0
+                },
+                {
+                    "ItemName": "CarBattery",
+                    "VehicleCargoAmmount": 48,
+                    "KeyHash": 0,
+                    "Health": 200.0
+                },
+                {
+                    "ItemName": "SparkPlug",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 20.0
+                },
+                {
+                    "ItemName": "CarRadiator",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 250.0
+                },
+                {
+                    "ItemName": "HeadlightH7",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 10.0
+                },
+                {
+                    "ItemName": "HeadlightH7",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 10.0
+                }
+            ]
+        },
+        {
+            "indexID": 1,
+            "VehiclesHash": 0,
+            "GarageID": -1,
+            "EngineHealth": 20000.0,
+            "FuelAmmount": 49.97981262207031,
+            "VehiclesName": "Gelenvagen_flecktarn",
+            "SpawnPos": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "SpawnOri": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "m_Cargo": [
+                {
+                    "ItemName": "Gelenvagen_Doors_Driver_flecktarn",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 4500.0
+                },
+                {
+                    "ItemName": "Gelenvagen_Doors_coDriver_flecktarn",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 4500.0
+                },
+                {
+                    "ItemName": "Gelenvagen_Doors_cargo1_flecktarn",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 4500.0
+                },
+                {
+                    "ItemName": "Gelenvagen_Doors_cargo2_flecktarn",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 4500.0
+                },
+                {
+                    "ItemName": "Gelenvagen_Doors_hood_flecktarn",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 4500.0
+                },
+                {
+                    "ItemName": "Gelenvagen_Doors_trunk_flecktarn",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 4500.0
+                },
+                {
+                    "ItemName": "Gelenvagen_Wheel",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 1500.0
+                },
+                {
+                    "ItemName": "Gelenvagen_Wheel",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 1500.0
+                },
+                {
+                    "ItemName": "Gelenvagen_Wheel",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 1500.0
+                },
+                {
+                    "ItemName": "Gelenvagen_Wheel",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 1500.0
+                },
+                {
+                    "ItemName": "Gelenvagen_Wheel",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 1500.0
+                },
+                {
+                    "ItemName": "Gelenvagen_Wheel",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 1500.0
+                },
+                {
+                    "ItemName": "Gelenvagen_Wheel",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 1500.0
+                },
+                {
+                    "ItemName": "CarBattery",
+                    "VehicleCargoAmmount": 48,
+                    "KeyHash": 0,
+                    "Health": 200.0
+                },
+                {
+                    "ItemName": "SparkPlug",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 20.0
+                },
+                {
+                    "ItemName": "CarRadiator",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 250.0
+                },
+                {
+                    "ItemName": "HeadlightH7",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 10.0
+                },
+                {
+                    "ItemName": "HeadlightH7",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 10.0
+                }
+            ]
+        },
+        {
+            "indexID": 2,
+            "VehiclesHash": 0,
+            "GarageID": -1,
+            "EngineHealth": -1.9969061628392434e25,
+            "FuelAmmount": 49.989627838134769,
+            "VehiclesName": "G65",
+            "SpawnPos": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "SpawnOri": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "m_Cargo": [
+                {
+                    "ItemName": "G65_Doors_Driver",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 500.0
+                },
+                {
+                    "ItemName": "G65_Doors_coDriver",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 500.0
+                },
+                {
+                    "ItemName": "G65_Doors_cargo1",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 500.0
+                },
+                {
+                    "ItemName": "G65_Doors_cargo2",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 500.0
+                },
+                {
+                    "ItemName": "G65_Doors_hood",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 500.0
+                },
+                {
+                    "ItemName": "G65_Doors_trunk",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 500.0
+                },
+                {
+                    "ItemName": "G65_Wheel",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 200.0
+                },
+                {
+                    "ItemName": "G65_Wheel",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 200.0
+                },
+                {
+                    "ItemName": "G65_Wheel",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 200.0
+                },
+                {
+                    "ItemName": "G65_Wheel",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 200.0
+                },
+                {
+                    "ItemName": "G65_Wheel",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 200.0
+                },
+                {
+                    "ItemName": "CarBattery",
+                    "VehicleCargoAmmount": 48,
+                    "KeyHash": 0,
+                    "Health": 200.0
+                },
+                {
+                    "ItemName": "SparkPlug",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 20.0
+                },
+                {
+                    "ItemName": "CarRadiator",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 250.0
+                },
+                {
+                    "ItemName": "HeadlightH7",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 10.0
+                },
+                {
+                    "ItemName": "HeadlightH7",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 10.0
+                }
+            ]
+        }
+    ]
+}
