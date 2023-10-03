@@ -11,6 +11,7 @@ __mods.txt
 ServerProfile/Users/
 ServerProfile/*.RPT
 ServerProfile/*.ADM
+<<<<<<< HEAD
 ServerProfile/*.mdmp
 iniciar_chernarus.bat
 AirdropSettings_bakup_*.json
@@ -19,6 +20,9 @@ ServerProfile/KR_BANKING/PlayerDataBase/
 ServerProfile/DataCache/
 ServerProfile/configs/
 ServerProfile/VPPAdminTools/Logging/
+=======
+iniciar_chernarus.bat
+>>>>>>> 8de81fd062baf3807676edc378a3ce65d1f40c20
 
 addons/
 battleye/
