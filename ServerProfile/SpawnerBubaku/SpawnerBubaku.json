@@ -14,7 +14,7 @@
             "notificationtime": 4,
             "triggerdelay": 1800,
             "spawnerpos": [
-                "832.647 3.03386 1215.17"
+                "832.718 3.16351 1215.14"
             ],
             "spawnradius": 0.0,
             "bubaknum": 1,
@@ -37,7 +37,7 @@
             "notificationtime": 2,
             "triggerdelay": 1800,
             "spawnerpos": [
-                "832.647 3.03386 1215.17"
+                "830.271 3.42599 1213.66"
             ],
             "spawnradius": 0.0,
             "bubaknum": 1,
@@ -60,7 +60,7 @@
             "notificationtime": 2,
             "triggerdelay": 1800,
             "spawnerpos": [
-                "832.647 3.03386 1215.17"
+                "832.961 3.28413 1214.25"
             ],
             "spawnradius": 0.0,
             "bubaknum": 1,
@@ -113,7 +113,7 @@
             "notificationtime": 2,
             "triggerdelay": 1800,
             "spawnerpos": [
-                "809.488 2.64517 1205.78"
+                "799.781 2.47292 1200.88"
             ],
             "spawnradius": 0.0,
             "bubaknum": 1,
@@ -136,7 +136,7 @@
             "notificationtime": 2,
             "triggerdelay": 1800,
             "spawnerpos": [
-                "809.488 2.64517 1205.78"
+                "809.031 2.47396 1204.32"
             ],
             "spawnradius": 0.0,
             "bubaknum": 1,
@@ -159,7 +159,7 @@
             "notificationtime": 2,
             "triggerdelay": 1800,
             "spawnerpos": [
-                "787.243 3.09948 1186.75"
+                "780.107 2.45652 1192.08"
             ],
             "spawnradius": 0.0,
             "bubaknum": 1,
@@ -182,7 +182,7 @@
             "notificationtime": 2,
             "triggerdelay": 1800,
             "spawnerpos": [
-                "787.243 3.09948 1186.75"
+                "788.061 2.45803 1194.36"
             ],
             "spawnradius": 0.0,
             "bubaknum": 1,
@@ -205,7 +205,7 @@
             "notificationtime": 2,
             "triggerdelay": 1800,
             "spawnerpos": [
-                "768.448 2.62129 1186.17"
+                "769.227 2.59862 1186.21"
             ],
             "spawnradius": 0.0,
             "bubaknum": 1,
@@ -228,7 +228,7 @@
             "notificationtime": 2,
             "triggerdelay": 1800,
             "spawnerpos": [
-                "826.648 3.20203 1168.63"
+                "826.72 3.34098 1168.58"
             ],
             "spawnradius": 0.0,
             "bubaknum": 1,
@@ -251,7 +251,7 @@
             "notificationtime": 2,
             "triggerdelay": 1800,
             "spawnerpos": [
-                "815.505 3.46765 1167.67"
+                "815.422 3.60201 1167.75"
             ],
             "spawnradius": 0.0,
             "bubaknum": 1,
@@ -304,7 +304,7 @@
             "notificationtime": 2,
             "triggerdelay": 1800,
             "spawnerpos": [
-                "818.117 3.30803 1157.67"
+                "816.922 3.41537 1151.64"
             ],
             "spawnradius": 0.0,
             "bubaknum": 1,
@@ -327,7 +327,7 @@
             "notificationtime": 2,
             "triggerdelay": 1800,
             "spawnerpos": [
-                "818.117 3.30803 1157.67"
+                "814.918 3.41413 1155.84"
             ],
             "spawnradius": 0.0,
             "bubaknum": 1,
@@ -350,7 +350,7 @@
             "notificationtime": 2,
             "triggerdelay": 1800,
             "spawnerpos": [
-                "759.621 3.6229 1131.84"
+                "758.87 3.19526 1139.83"
             ],
             "spawnradius": 0.0,
             "bubaknum": 1,
@@ -373,7 +373,7 @@
             "notificationtime": 2,
             "triggerdelay": 1800,
             "spawnerpos": [
-                "759.621 3.6229 1131.84"
+                "758.623 3.19539 1140.48"
             ],
             "spawnradius": 0.0,
             "bubaknum": 1,
@@ -426,7 +426,7 @@
             "notificationtime": 2,
             "triggerdelay": 1800,
             "spawnerpos": [
-                "761 12.9635 1141.02"
+                "761.001 13.1074 1141.03"
             ],
             "spawnradius": 0.0,
             "bubaknum": 1,
@@ -449,7 +449,7 @@
             "notificationtime": 2,
             "triggerdelay": 1800,
             "spawnerpos": [
-                "765.818 13.1229 1123.91"
+                "764.716 13.2912 1138.39"
             ],
             "spawnradius": 0.0,
             "bubaknum": 1,
@@ -472,7 +472,7 @@
             "notificationtime": 2,
             "triggerdelay": 1800,
             "spawnerpos": [
-                "786.951 12.9509 1108.72"
+                "774.083 13.1874 1096.63"
             ],
             "spawnradius": 0.0,
             "bubaknum": 1,
@@ -525,7 +525,7 @@
             "notificationtime": 2,
             "triggerdelay": 1800,
             "spawnerpos": [
-                "870.022 13.0535 1074.07"
+                "860.056 13.0821 1088.56"
             ],
             "spawnradius": 0.0,
             "bubaknum": 1,
@@ -548,7 +548,7 @@
             "notificationtime": 2,
             "triggerdelay": 1800,
             "spawnerpos": [
-                "870.022 13.0535 1074.07"
+                "860.918 13.0797 1086.86"
             ],
             "spawnradius": 0.0,
             "bubaknum": 1,
@@ -723,7 +723,7 @@
             "notificationtime": 2,
             "triggerdelay": 1800,
             "spawnerpos": [
-                "829.749 3.19434 1049.71"
+                "833.823 3.06661 1053.22"
             ],
             "spawnradius": 0.0,
             "bubaknum": 1,
@@ -746,7 +746,7 @@
             "notificationtime": 2,
             "triggerdelay": 1800,
             "spawnerpos": [
-                "829.749 3.19434 1049.71"
+                "833.679 3.06661 1052.89"
             ],
             "spawnradius": 0.0,
             "bubaknum": 1,
@@ -769,7 +769,7 @@
             "notificationtime": 2,
             "triggerdelay": 1800,
             "spawnerpos": [
-                "867.699 3.06663 1031.32"
+                "865.306 2.96018 1030.62"
             ],
             "spawnradius": 0.0,
             "bubaknum": 1,
@@ -792,7 +792,7 @@
             "notificationtime": 2,
             "triggerdelay": 1800,
             "spawnerpos": [
-                "867.699 3.06663 1031.32"
+                "865.025 3.08566 1031.5"
             ],
             "spawnradius": 0.0,
             "bubaknum": 1,

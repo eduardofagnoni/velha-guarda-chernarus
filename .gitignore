@@ -11,6 +11,14 @@ __mods.txt
 ServerProfile/Users/
 ServerProfile/*.RPT
 ServerProfile/*.ADM
+ServerProfile/*.mdmp
+iniciar_chernarus.bat
+AirdropSettings_bakup_*.json
+ServerProfile/ExpansionMod/groups/
+ServerProfile/KR_BANKING/PlayerDataBase/
+ServerProfile/DataCache/
+ServerProfile/configs/
+ServerProfile/VPPAdminTools/Logging/
 
 addons/
 battleye/
