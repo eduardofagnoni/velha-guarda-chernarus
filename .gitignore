@@ -9,6 +9,8 @@ ServerProfile/AC/_noar
 mpmissions/dayzOffline.chernarusplus/storage_*
 __mods.txt
 ServerProfile/Users/
+ServerProfile/*.RPT
+ServerProfile/*.ADM
 
 addons/
 battleye/
