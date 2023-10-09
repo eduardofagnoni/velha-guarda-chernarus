@@ -2,6 +2,7 @@
     "loglevel": 0,
     "BubakLocations": [
         {
+            "comentario": "Gatilho Entrada Bunker e spawn HK416",
             "name": "BunkerSul1_0Gat",
             "workinghours": "0-24",
             "triggerpos": "833.327 2.58554 1219.18",
@@ -25,6 +26,7 @@
             ]
         },
         {
+            "comentario": "Spawn carregador HK416 primeira sala Bunker em cima da mesa",
             "name": "BunkerSul1_1Mag",
             "workinghours": "0-24",
             "triggerpos": "833.327 2.58554 1219.18",
@@ -48,6 +50,7 @@
             ]
         },
         {
+            "comentario": "Spawn Bastão de luz primeira sala Bunker em cima da mesa",
             "name": "BunkerSul1_2Ute",
             "workinghours": "0-24",
             "triggerpos": "833.327 2.58554 1219.18",
@@ -71,6 +74,7 @@
             ]
         },
         {
+            "comentario": "Spawn de zumbis corredor após a primeira sala do Bunker",
             "name": "BunkerSul1_2Zmb",
             "workinghours": "0-24",
             "triggerpos": "833.327 2.58554 1219.18",
@@ -101,6 +105,7 @@
             ]
         },
         {
+            "comentario": "Spawn Famas Primeira sala direita corredor prisão de telas",
             "name": "BunkerSul1_3Gun",
             "workinghours": "0-24",
             "triggerpos": "833.327 2.58554 1219.18",
@@ -124,6 +129,7 @@
             ]
         },
         {
+            "comentario": "Spawn Mag_FAMAS_25Rnd Primeira sala direita corredor prisão de telas",
             "name": "BunkerSul1_3MAG",
             "workinghours": "0-24",
             "triggerpos": "833.327 2.58554 1219.18",
@@ -147,6 +153,7 @@
             ]
         },
         {
+            "comentario": "Spawn Deagle_Gold Segunda sala direita corredor dormitório",
             "name": "BunkerSul1_4Gun",
             "workinghours": "0-24",
             "triggerpos": "833.327 2.58554 1219.18",
@@ -170,6 +177,7 @@
             ]
         },
         {
+            "comentario": "Spawn Mag_Deagle_9rnd Segunda sala direita corredor dormitório",
             "name": "BunkerSul1_4Mag",
             "workinghours": "0-24",
             "triggerpos": "833.327 2.58554 1219.18",
@@ -193,6 +201,7 @@
             ]
         },
         {
+            "comentario": "Spawn Crossbow_Wood Terceira sala direita corredor sala caixas armamento canto direito",
             "name": "BunkerSul1_5Gun",
             "workinghours": "0-24",
             "triggerpos": "833.327 2.58554 1219.18",
@@ -216,6 +225,7 @@
             ]
         },
         {
+            "comentario": "Spawn CombatBoots_Black Primeira porta esquerda corredor sala esquerda cima mesa",
             "name": "BunkerSul1_6Ves",
             "workinghours": "0-24",
             "triggerpos": "833.327 2.58554 1219.18",
@@ -239,6 +249,7 @@
             ]
         },
         {
+            "comentario": "Spawn Canteen Primeira porta esquerda corredor sala direita na prateleira",
             "name": "BunkerSul1_7Ves",
             "workinghours": "0-24",
             "triggerpos": "833.327 2.58554 1219.18",
@@ -262,6 +273,7 @@
             ]
         },
         {
+            "comentario": "Spawn de zumbis corredor interno",
             "name": "BunkerSul1_8Zmb",
             "workinghours": "0-24",
             "triggerpos": "833.327 2.58554 1219.18",
@@ -292,6 +304,7 @@
             ]
         },
         {
+            "comentario": "Gatilho e Spawn FAL Segunda porta esquerda corredor sala fundo esquerda cima mesa",
             "name": "BunkerSul1_9Gun",
             "workinghours": "0-24",
             "triggerpos": "833.327 2.58554 1219.18",
@@ -315,6 +328,7 @@
             ]
         },
         {
+            "comentario": "Spawn Mag_FAL_20Rnd Segunda porta esquerda corredor sala fundo esquerda cima mesa",
             "name": "BunkerSul1_9Mag",
             "workinghours": "0-24",
             "triggerpos": "833.327 2.58554 1219.18",
@@ -338,6 +352,7 @@
             ]
         },
         {
+            "comentario": "Spawn Aug Quarda porta esquerda corredor sala caixas armas cima da caixas",
             "name": "BunkerSul1_AGun",
             "workinghours": "0-24",
             "triggerpos": "833.327 2.58554 1219.18",
@@ -361,6 +376,7 @@
             ]
         },
         {
+            "comentario": "Spawn Mag_Aug_30Rnd Quarda porta esquerda corredor sala caixas armas cima da caixas",
             "name": "BunkerSul1_AMag",
             "workinghours": "0-24",
             "triggerpos": "833.327 2.58554 1219.18",
@@ -384,6 +400,7 @@
             ]
         },
         {
+            "comentario": "Gatilho Terceira porta esquerda corredor final do corredor e spawn Zombies",
             "name": "BunkerSul2_0Gat",
             "workinghours": "0-24",
             "triggerpos": "791.243 2.38413 1144.68",
@@ -414,6 +431,7 @@
             ]
         },
         {
+            "comentario": "Spawn BandageDressing À direita barraca médica fundo cima da mesa",
             "name": "BunkerSul2_1Med",
             "workinghours": "0-24",
             "triggerpos": "791.243 2.38413 1144.68",
@@ -437,6 +455,7 @@
             ]
         },
         {
+            "comentario": "Spawn FirstAidKit A frente da saida inicial prim sala médica cima mesa",
             "name": "BunkerSul2_2Med",
             "workinghours": "0-24",
             "triggerpos": "791.243 2.38413 1144.68",
@@ -460,6 +479,7 @@
             ]
         },
         {
+            "comentario": "Spawn Honey A frente da saida inicial seg sala igreja cima mesa",
             "name": "BunkerSul2_3Ali",
             "workinghours": "0-24",
             "triggerpos": "791.243 2.38413 1144.68",
@@ -483,6 +503,7 @@
             ]
         },
         {
+            "comentario": "Gatilho Gira torneira para baixar água, desce, vai pelo corredor até prim. acesso e sobe escada da esquerda e spawn zombies",
             "name": "BunkerSul3_0Gat",
             "workinghours": "0-24",
             "triggerpos": "828.242 12.3589 1085.43",
@@ -513,6 +534,7 @@
             ]
         },
         {
+            "comentario": "Spawn GCGN_M200 Corredor direita outro lado prim sala cima mesa fundo",
             "name": "BunkerSul3_1Gun",
             "workinghours": "0-24",
             "triggerpos": "828.242 12.3589 1085.43",
@@ -536,6 +558,7 @@
             ]
         },
         {
+            "comentario": "Spawn GCGN_M200_Mag Corredor esquerda prim sala cima mesa fundo",
             "name": "BunkerSul3_1Mag",
             "workinghours": "0-24",
             "triggerpos": "828.242 12.3589 1085.43",
@@ -559,6 +582,7 @@
             ]
         },
         {
+            "comentario": "Gatilho Corredor esquerda segunda porta desce e volta para início e spawn zombies",
             "name": "BunkerSul4_0Gat",
             "workinghours": "0-24",
             "triggerpos": "860.679 12.2487 1056.55",
@@ -589,6 +613,7 @@
             ]
         },
         {
+            "comentario": "Spawn GCGN_M249 Esquerda ultima sala caixas mun em cima pallets",
             "name": "BunkerSul4_1Gun",
             "workinghours": "0-24",
             "triggerpos": "860.679 12.2487 1056.55",
@@ -612,6 +637,7 @@
             ]
         },
         {
+            "comentario": "Spawn GCGN_M249_Mag Direita sala caixas mun em cima pallets",
             "name": "BunkerSul4_1Mag",
             "workinghours": "0-24",
             "triggerpos": "860.679 12.2487 1056.55",
@@ -635,6 +661,7 @@
             ]
         },
         {
+            "comentario": "Spawn GCGN_M700 Direita sala caixas mun em cima pallets",
             "name": "BunkerSul4_2Gun",
             "workinghours": "0-24",
             "triggerpos": "860.679 12.2487 1056.55",
@@ -658,6 +685,7 @@
             ]
         },
         {
+            "comentario": "Spawn GCGN_M700_Mag Direita sala caixas mun em cima pallets",
             "name": "BunkerSul4_2Mag",
             "workinghours": "0-24",
             "triggerpos": "860.679 12.2487 1056.55",
@@ -681,6 +709,7 @@
             ]
         },
         {
+            "comentario": "Gatilho Última etapa e spawn zombies",
             "name": "BunkerSul5_0Gat",
             "workinghours": "0-24",
             "triggerpos": "858.58  2.19707 1054.81",
@@ -711,6 +740,7 @@
             ]
         },
         {
+            "comentario": "Spawn SNAFU_AK308 frente sala caminhão cima caixas",
             "name": "BunkerSul5_1Gun",
             "workinghours": "0-24",
             "triggerpos": "829.749 3.19434 1049.71",
@@ -734,6 +764,7 @@
             ]
         },
         {
+            "comentario": "Spawn SNAFU_AK308_Mag frente sala caminhão cima caixas",
             "name": "BunkerSul5_1Mag",
             "workinghours": "0-24",
             "triggerpos": "829.749 3.19434 1049.71",
@@ -757,6 +788,7 @@
             ]
         },
         {
+            "comentario": "Spawn SNAFU_AWM_Gun Saida em cima mesa",
             "name": "BunkerSul5_2Gun",
             "workinghours": "0-24",
             "triggerpos": "829.749 3.19434 1049.71",
@@ -780,6 +812,7 @@
             ]
         },
         {
+            "comentario": "Spawn SNAFU_AWM_Mag Saida em cima mesa",
             "name": "BunkerSul5_2Mag",
             "workinghours": "0-24",
             "triggerpos": "829.749 3.19434 1049.71",
@@ -803,6 +836,7 @@
             ]
         },
         {
+            "comentario": "Gatilho Entrada Bunker e spawn HK416",
             "name": "Você entrou no Bunker Norte!",
             "workinghours": "0-24",
             "triggerpos": "5479.54 483.149 14907.4",
@@ -826,6 +860,7 @@
             ]
         },
         {
+            "comentario": "Spawn carregador HK416 primeira sala Bunker em cima da mesa",
             "name": "BunkerNor1_1Mag",
             "workinghours": "0-24",
             "triggerpos": "5479.54 483.149 14907.4",
@@ -849,6 +884,7 @@
             ]
         },
         {
+            "comentario": "Spawn de zumbis corredor após a primeira sala do Bunker",
             "name": "BunkerNor1_2Zmb",
             "workinghours": "0-24",
             "triggerpos": "5479.54 483.149 14907.4",
@@ -882,6 +918,7 @@
             ]
         },
         {
+            "comentario": "Saindo primeira sala e spawn de Canteen cima pallets direita",
             "name": "PERIGOS À VISTA!!",
             "workinghours": "0-24",
             "triggerpos": "5508.65 482.231 14945.9",
@@ -905,6 +942,7 @@
             ]
         },
         {
+            "comentario": "Spawn Famas Depósito esquerda sala do fundo",
             "name": "BunkerNor1_3Gun",
             "workinghours": "0-24",
             "triggerpos": "5508.65 482.231 14945.9",
@@ -928,6 +966,7 @@
             ]
         },
         {
+            "comentario": "Spawn Mag_FAMAS_25Rnd Depósito esquerda sala do fundo",
             "name": "BunkerNor1_3MAG",
             "workinghours": "0-24",
             "triggerpos": "5508.65 482.231 14945.9",
@@ -951,6 +990,7 @@
             ]
         },
         {
+            "comentario": "Spawn de zumbis no meio da sala grande",
             "name": "BunkerNor1_3Zmb",
             "workinghours": "0-24",
             "triggerpos": "5508.65 482.231 14945.9",
@@ -984,6 +1024,7 @@
             ]
         },
         {
+            "comentario": "Gatilho rampa subindo o nível e spawn MMG_supply_black sala transformadores",
             "name": "Daqui para frente tudo é perigo!",
             "workinghours": "0-24",
             "triggerpos": "5544.91 484.723 14988.4",
@@ -1007,6 +1048,7 @@
             ]
         },
         {
+            "comentario": "Spawn Deagle_Gold sala dos caixotes",
             "name": "BunkerNor1_4Gun",
             "workinghours": "0-24",
             "triggerpos": "5544.91 484.723 14988.4",
@@ -1030,6 +1072,7 @@
             ]
         },
         {
+            "comentario": "Spawn Mag_Deagle_9rnd sala dos caixotes",
             "name": "BunkerNor1_4Mag",
             "workinghours": "0-24",
             "triggerpos": "5544.91 484.723 14988.4",
@@ -1053,6 +1096,7 @@
             ]
         },
         {
+            "comentario": "Spawn Crossbow_Wood segunda sala dos caixotes",
             "name": "BunkerNor1_5Gun",
             "workinghours": "0-24",
             "triggerpos": "5544.91 484.723 14988.4",
@@ -1076,6 +1120,7 @@
             ]
         },
         {
+            "comentario": "Spawn de zumbis no meio do corredor",
             "name": "BunkerNor1_6Zmb",
             "workinghours": "0-24",
             "triggerpos": "5544.91 484.723 14988.4",
@@ -1109,6 +1154,7 @@
             ]
         },
         {
+            "comentario": "Spawn CombatBoots_Black terceira sala dos caixotes",
             "name": "BunkerNor1_6Ves",
             "workinghours": "0-24",
             "triggerpos": "5544.91 484.723 14988.4",
@@ -1132,6 +1178,7 @@
             ]
         },
         {
+            "comentario": "Spawn Canteen sala dormitório",
             "name": "BunkerNor1_7Ves",
             "workinghours": "0-24",
             "triggerpos": "5544.91 484.723 14988.4",
@@ -1155,6 +1202,7 @@
             ]
         },
         {
+            "comentario": "Spawn de zumbis corredor andar de cima",
             "name": "BunkerNor1_8Zmb",
             "workinghours": "0-24",
             "triggerpos": "5544.91 484.723 14988.4",
@@ -1185,6 +1233,7 @@
             ]
         },
         {
+            "comentario": "Gatilho passando por baixo grade e spawn MMG_supply_black sala frente enforcado",
             "name": "Agora você está no caminho certo!",
             "workinghours": "0-24",
             "triggerpos": "5484.41 488.465 15083",
@@ -1208,6 +1257,7 @@
             ]
         },
         {
+            "comentario": "Gatilho e Spawn FAL sala dos dois tanques",
             "name": "BunkerNor1_9Gun",
             "workinghours": "0-24",
             "triggerpos": "5484.41 488.465 15083",
@@ -1231,6 +1281,7 @@
             ]
         },
         {
+            "comentario": "Spawn Mag_FAL_20Rnd sala dos dois tanques",
             "name": "BunkerNor1_9Mag",
             "workinghours": "0-24",
             "triggerpos": "5484.41 488.465 15083",
@@ -1254,6 +1305,7 @@
             ]
         },
         {
+            "comentario": "Spawn de zumbis antes de descer para os canos",
             "name": "BunkerNor1_9Zmb",
             "workinghours": "0-24",
             "triggerpos": "5484.41 488.465 15083",
@@ -1284,6 +1336,7 @@
             ]
         },
         {
+            "comentario": "Gatilho antes de descer para passar pelos canos expostos e espawn MMG_supply_black em cima estrados",
             "name": "Você precisa passar por estes canos e chegar ao outro lado!",
             "workinghours": "0-24",
             "triggerpos": "5469.57 483.568 15141.7",
@@ -1307,6 +1360,7 @@
             ]
         },
         {
+            "comentario": "Spawn Aug sala vazia de cima",
             "name": "BunkerNor1_AGun",
             "workinghours": "0-24",
             "triggerpos": "5469.57 483.568 15141.7",
@@ -1330,6 +1384,7 @@
             ]
         },
         {
+            "comentario": "Spawn Mag_Aug_30Rnd sala vazia de cima",
             "name": "BunkerNor1_AMag",
             "workinghours": "0-24",
             "triggerpos": "5469.57 483.568 15141.7",
@@ -1353,6 +1408,7 @@
             ]
         },
         {
+            "comentario": "Spawn de zumbis antes de subir",
             "name": "BunkerNor1_9Zmb",
             "workinghours": "0-24",
             "triggerpos": "5469.57 483.568 15141.7",
@@ -1383,6 +1439,7 @@
             ]
         },
         {
+            "comentario": "Gatilho subindo agua e subindo escada quebrada e spawn Zombies",
             "name": "Ainda lhe resta muita vida? Vai precisar de sorte!",
             "workinghours": "0-24",
             "triggerpos": "5484.41 503.697 15005",
@@ -1413,6 +1470,7 @@
             ]
         },
         {
+            "comentario": "Spawn BandageDressing no final da sala que não leva a nada",
             "name": "BunkerNor2_1Med",
             "workinghours": "0-24",
             "triggerpos": "5484.41 503.697 15005",
@@ -1436,6 +1494,7 @@
             ]
         },
         {
+            "comentario": "Spawn Honey sala do nada frente ao enforcado",
             "name": "BunkerNor2_3Ali",
             "workinghours": "0-24",
             "triggerpos": "5484.41 503.697 15005",
@@ -1459,6 +1518,7 @@
             ]
         },
         {
+            "comentario": "Gatilho antes subir escada para próximo nível",
             "name": "UAU!! Temos companhia!",
             "workinghours": "0-24",
             "triggerpos": "5460.15 518.576 15016.7",
@@ -1489,6 +1549,7 @@
             ]
         },
         {
+            "comentario": "Spawn GCGN_M200 antes da saída final",
             "name": "BunkerNor3_1Gun",
             "workinghours": "0-24",
             "triggerpos": "5460.15 518.576 15016.7",
@@ -1512,6 +1573,7 @@
             ]
         },
         {
+            "comentario": "Spawn GCGN_M200_Mag antes da saída final",
             "name": "BunkerNor3_1Mag",
             "workinghours": "0-24",
             "triggerpos": "5460.15 518.576 15016.7",
@@ -1535,6 +1597,7 @@
             ]
         },
         {
+            "comentario": "Spawn GCGN_M249 antes saída em cima das caixas",
             "name": "BunkerNor4_1Gun",
             "workinghours": "0-24",
             "triggerpos": "5460.15 518.576 15016.7",
@@ -1558,6 +1621,7 @@
             ]
         },
         {
+            "comentario": "Spawn GCGN_M249_Mag antes saída na prateleira",
             "name": "BunkerNor4_1Mag",
             "workinghours": "0-24",
             "triggerpos": "5460.15 518.576 15016.7",
